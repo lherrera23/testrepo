@@ -1,0 +1,4058 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://www.youtube.com/watch?v=sdDJLkjJfks
+https://www.youtube.com/watch?v=79lquFD3oT4
+https://www.youtube.com/watch?v=j9QmMEWmcfo
+
+
+izzi
+
+http://192.168.0.1/?basic_setup
+
+admin
+password
+
+
+Eduardo Perez Fernandez <eduardo.perez.fernandez@kyndryl.com>
+Esmeralda Pineda <Esmeralda.Pineda@ibm.com>, Lluvia Angelica Del Oso Alva <lluviaan@mx1.ibm.com>, Irma Enriqueta Espinosa <IRMA.ENRIQUETA.ESPINOSA@ibm.com>
+Felipe Vargas Jimenez <fvargas@mx1.ibm.com>, Francisco Zavala Dopazo <zavalado@mx1.ibm.com>
+
+
+CAU 55-5270-6000
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Case Number:
+TS011694073
+Account:
+RADIOMOVIL DIPSA, S.A. DE C.V.
+CMR Number:
+0964241
+Country:
+MX
+Status:
+New Case
+Severity:
+1
+Product:
+AIX
+Machine Type:
+8286
+Machine Model:
+42A
+Machine Serial:
+217D54V
+Assigned Support Mission Name:
+AIX
+Mission Team Name:
+AIX: AIX Install/mksysb/alt disk/NIM/LKU
+Business Hours:
+9X5
+
+
+-------------------------------------------------------------------------------
+
+
+Oxxo - TS011694129
+
+
+-------------------------------------------------------------------------------
+
+
+Hola, Paty:
+
+Por favor, solamente ejecuta el comando snap, sin ninguna opción; he aquí las instrucciones a detalle:
+
+How to Collect Snap From a PowerVM Virtual I/O Server (VIOS)
+https://www.ibm.com/support/pages/node/671013
+
+Muchas gracias nuevamente por tu apoyo y confianza, Paty; seguimos en contacto.
+
+
+Saludos, Luis Herrera
+
+
+'bosboot', 'mksysb' and hdiskpower devices
+https://www.ibm.com/support/pages/bosboot-mksysb-and-hdiskpower-devices
+
+
+-------------------------------------------------------------------------------
+
+
+PEMEX
+
+Power 795 Server
+02272ER
+Power 795 Server
+02272CR
+
+02272DR
+
+
+9.4.3 RESPONSABILIDADES PARTÍCULARES DE EL CLIENTE
+
+El Cliente deberá tener vigentes las versiones de los productos listados, cuando
+alguna de estas versiones no se encuentre soportada se perderá toda cobertura por este contrato. Las versiones de Productos Soportados están identificadas en la Lista de Productos Soportados (SPL), la cual está localizada en la siguiente dirección de Internet de IBM: https://www.ibm.com/software/support/lifecycle/
+
+
+9.5.4 RESPONSABILIDADES CLIENTE
+
+k. Verificar la Lista de Productos soportados al menos una vez al mes para ver si se han agregado o eliminado productos cubiertos por este Descriptivo e informar a IBM.
+
+
+9.7 SERVICIO DE HEALTH CHECK
+9.7.1 ALCANCE DEL SERVICIO
+IBM proveerá una (1) actividad de servicio de Health Check por cada periodo de 8 (ocho) meses a los equipos soportados en esta Propuesta Formal indicados en la sección Programa de Servicios.
+
+3.4.1.3 MANTENIMIENTO AL SOFTWARE BASE
+
+Debe entregar soporte solo para versiones vigentes y soportadas, dentro de Ciclo de Vida. Para Software base (S.O. AIX, VIOS, HMC, etc.).
+
+
+SERVICIO DE HEALTH CHECK
+
+Número de Cliente (Instalación): 00536302
+Número de Cliente (Facturación): 00536302
+Descripción Información del HW Fecha
+Inicio
+Servicio
+Duración
+Tipo/Modelo Servicio
+de
+Máquina
+Número de
+Serie
+1 Servicio de Health Check por 8 meses 2498 F96 780206T A la firma del
+contrato
+8 meses
+1 Servicio de Health Check por 8 meses 2498 F96 780207B A la firma del
+contrato
+8 meses
+1 Servicio de Health Check por 8 meses 2498 F96 780207G A la firma del
+contrato
+8 meses
+1 Servicio de Health Check por 8 meses 9119 FHB 02272CR A la firma del
+contrato
+8 meses
+1 Servicio de Health Check por 8 meses 9119 FHB 02272DR A la firma del
+contrato
+8 meses
+1 Servicio de Health Check por 8 meses 9119 FHB 02272ER A la firma del
+contrato
+8 meses
+1 Servicio de Health Check por 8 meses 9848 AG8 78E31KV A la firma del
+contrato
+8 meses
+1 Servicio de Health Check por 8 meses 9848 AG8 78E31KW A la firma del
+contrato
+8 meses
+1 Servicio de Health Check por 8 meses 2498 F96 780206H A la firma del
+contrato
+8 meses
+
+
+-------------------------------------------------------------------------------
+
+
+To: Patricia Pereda Delgado <ppereda@bancoppel.com>
+Cc: Luis Manuel Herrera J <lherrera@mx1.ibm.com>; Maria Susana Zaragoza Moreno <mariasus@mx1.ibm.com>; Ramon Banez <rbanez@us.ibm.com>
+
+
+-------------------------------------------------------------------------------
+
+
+Content Manager OnDemand for Multiplatforms_10.1.x
+https://www.ibm.com/support/pages/node/1180228
+
+EOS: 30-Apr-2022
+
+Software withdrawal and support discontinuance: Datawatch Report Mining Server and IBM Elite Support for Datawatch Report Mining; Support discontinuance: IBM WebSphere eXtreme Scale 8.6.0 and IBM Content Manager OnDemand for Multiplatforms 10.1.x
+https://www.ibm.com/common/ssi/cgi-bin/ssialias?subtype=ca&infotype=an&appname=iSource&supplier=897&letternum=ENUS921-071
+
+
+-------------------------------------------------------------------------------
+
+
+TS011676129
+
+
+-------------------------------------------------------------------------------
+
+
+* Foundation Level: OSS and Linux Training for RTS
+
+Open Source Software - Remote Technical Support, Foundation
+
+
+-------------------------------------------------------------------------------
+
+
+$269.00
+Max 1,500
+doble de gigas, redes sociales ilimitadas, 3.5 GB (1.75 GB x 2)
+
+Wicco
+128 GB
+4 GB RAM
+$3,400.00
+$3,150.00
+Senwa s319e
+
+
+-------------------------------------------------------------------------------
+
+
+David Nevarez
+10 de January de 2023 at 10:26 AM
+
+The following ifix is now available:
+
+https://www.secure.ecurep.ibm.com/download/?id=_yukLa06T67U8CxEUKWXtTsIup1xdhXqBu4MRUj8YwY
+
+# cksum IJ32204s9a.230109.epkg.Z
+1154668181 592237 IJ32204s9a.230109.epkg.Z
+
+Installation instructions:
+
+Copy the ifix and place it in a new directory
+
+Change directories to newly created directory
+
+# cd /tmp/ifix_dir
+# emgr -e <ifix file>
+
+The emgr output will indicate a reboot is necessary.
+
+Here is a link with more details:
+
+https://www.ibm.com/support/pages/managing-interim-fixes-aix
+
+Please let us know if you are able to apply the ifix.
+
+Thank you,
+Dave N
+
+
+-------------------------------------------------------------------------------
+
+
+https://ibm.biz/LMT_ordering
+
+
+Downloading IBM License Metric Tool 9.2
+https://www.ibm.com/support/pages/downloading-ibm-license-metric-tool-92
+
+
+-------------------------------------------------------------------------------
+
+
+FlashSystem V9000
+
+Red Hat Ansible Tower Support Essentials
+Red Hat Delivery Specialist - Automation
+Red Hat Delivery Specialist - Automation II
+
+https://www.redhat.com/wapps/ugc/register.html?_flowId=register-flow&_flowExecutionKey=e1s1
+
+
+Red Hat Login: luis2345
+
+lherrera-mx1.ibm.com
+Password: Dulce23Ale
+
+
+-------------------------------------------------------------------------------
+
+
+Product Version
+6.0.6.1 (Ended Support 10/31/2022)
+
+Service Type
+Defect/BreakFix
+
+Latest iFix Installed
+iFix028
+
+Sub-Category
+Work Item & Process
+
+Is your solution hosted on Cloud / SaaS / Managed Service (With IBM)?
+No
+
+
+Engineering Workflow Management
+Manual IoT-CE Continuous Engineering
+
+
+Family 8286+01 IBM Power System S814 server
+
+
+-------------------------------------------------------------------------------
+
+
+
+Katie Josenhans
+12 de January de 2023 at 01:52 PM
+
+Hi Guillermo,
+
+I tried calling you on the number provided but wasn't able to get through.
+
+Can you confirm the reason for this case being a severity 1? Per your description, the issue is with saving a work item. That does not meet the server unavailable requirements for severity 1 cases.
+
+I also see you are on CLM 6.0.6.1. What iFix do you have have installed? Is this a new issue?
+
+Can you please provide a full set of logs for our review?
+
+How to collect logs: https://www.ibm.com/docs/en/elm/7.0.2?topic=information-running-support-assistant-data-collector
+
+
+-------------------------------------------------------------------------------
+
+
+Rafael Boris Careaga <rbcareaga@bancoppel.com>
+Jose Luis Palomar <jlpalomar@bancoppel.com>
+
+
+SARITHA MULUKA
+11 de January de 2023 at 05:06 PM
+
+This is Saritha from IBM WebSphere Level2 support. I am assisting on this case. I reviewed case. The server startup thread is hung in socketread0( ) while waiting for response from at org.postgresql.core.VisibleBufferedInputStream.readMore(VisibleBufferedInputStream.java:161)
+
+Looks like your application startup during server startup and it got hung in socketread0( ) from backend.
+
+Engage your network and database admins for any delays or issues at the time of this hang.
+
+You can disable application auto restart during JVM restart.
+
+Disabling automatic starting of applications
+https://www.ibm.com/docs/en/was-zos/8.5.5?topic=SS7K4U_8.5.5/com.ibm.websphere.base.doc/ae/trun_app_targetmap.htm
+
+This will not start application during JVM startup.
+
+If the issue can be repeated, collect complete hang mustgather as ROOT user during the hang issue.
+
+MustGather: Performance, hang, or high CPU issues with WebSphere Application Server on AIX
+https://www.ibm.com/support/pages/mustgather-performance-hang-or-high-cpu-issues-websphere-application-server-aix
+
+Zip the files gathered:
+
+aixperf_RESULTS.<DATE>.<TIMESTAMP>.tar.gz created by aixperf.sh (including javacores)
+WAS_HOME/profiles/<profile_name>/logs (SystemOut.log, SystemErr.log, native_stderr.log, native_stdout.log, verbosegc)
+server.xml for the server(s) that you are providing data for
+
+
+Thank you,
+Saritha
+IBM WebSphere Level2 support
+
+
+-------------------------------------------------------------------------------
+
+
+
+Kareem Mostafa
+4 de January de 2023 at 03:49 PM
+
+Dear Rafael,
+
+This is Kareem from TCP/IP Protocols Team and I am going to assist You further with this case.
+
+I understand that you are facing some link downs that affected the connection with some of the ATMs,Could you provide me with more insights on the problem description and answer the following questions if possible?
+
+- What kind of a set up is being used? Is a VIOS involved or is it a standalone
+- Any recent changes made in the environment like the OS or switch upgrade?
+
+Also if you could provide us with a snap from the system for further analysis.
+
+Please follow the below steps to collect and upload a snap from your AIX LPAR:
+
+First, clear out any old snap data using:
+# snap -r
+
+Then gather the snap data on the system:
+# snap -ac (for a vio server need to be in root shell oem_setup_env)
+
+This will create a file /tmp/ibmsupt/snap.pax.Z
+
+Rename this file and put the case number in front of it:
+# cd /tmp/ibmsupt
+# mv snap.pax.Z <Case_Number>.client.snap.pax.Z
+
+Then upload both snap to the web using the following link:
+https://www-01.ibm.com/support/docview.wss?uid=ibm10739401
+
+Or directly upload to this on the basis of your case number:
+https://www.secure.ecurep.ibm.com/app/upload_sf
+
+Looking forward for Your reply.
+
+Best Regards,
+Kareem A. Mostafa
+TCP/IP Protocols,Remote Technical Support Engineer
+AIX UNIX/TCP/IP protocols
+TLS
+Webex: https://ibm.webex.com/meet/kmostafa
+Phone:1-303-354-8940 E-mail: kmostafa@eg.ibm.com
+
+
+11/Enero/2023 - BanCoppel - Was Nodes don't start
+
+
+-------------------------------------------------------------------------------
+
+
+https://training-lms.redhat.com/lmt/lmtLogin.prMenu?in_sessionid=31A450J581002832
+
+Red Hat Partner Training Portal catalog
+https://connect.redhat.com/en/training
+
+Red Hat Ansible
+Red Hat Ansible Tower Support Essentials (2 hours)
+Red Hat Delivery Specialist - Automation (38 hours)
+Red Hat Delivery Specialist - Automation II (no disponible)
+
+Cursos adicionales a considerar
+Red Hat Ansible Engine Support Essentials (2 hours)
+Hands-On with Red Hat Ansible Automation Platform 2 (12 hours)
+Red Hat Delivery Specialist - Red Hat Ansible Automation Platform Support (42 hours)
+Red Hat Enterprise Linux Automation with Ansible (32 hours)
+
+Red Hat OpenShift
+OpenShift 101 (1 hour)
+Red Hat OpenShift 4 Foundations (12 hours)
+Hands-On with Red Hat OpenShift 4.10 (3 hours)
+OpenShift Troubleshooting 101 (1 hour)
+Red Hat OpenShift Installation Lab (16 hours)
+
+Estos cursos están disponibles en el portal de Red Hat (https://connect.redhat.com/en/training) tan solo deben crear su cuenta con su cuenta de correo de IBM
+
+Disclaimer
+Esto es bajo la premisa que se tiene conocimiento de RHEL
+
+
+-------------------------------------------------------------------------------
+
+
+El Programa de Normas de Conducta Profesional 2023
+
+CRF1396 for ITNM (IBM Tivoli Network Manager)
+https://supportcontent.ibm.com/support/pages/crf1396-itnm?check_logged_in=1#ESCAPROC
+
+
+21D9DDW
+21DA9CW
+
+21DA9DW
+21D9DFW
+
+
+"Iñiguez, Alberto" <ALBERTO.INIGUEZ@ASAP.COM.MX>
+"De La Garza,  Olga" <Olga.DeLaGarza@tdsynnex.com>
+"Garza, Nydia" <Nydia.Garza@tdsynnex.com>
+"Corona, Samantha" <samantha.corona@asap.com.mx> 
+
+
+-------------------------------------------------------------------------------
+
+
+Programa WellBe Enero año 2023.
+https://ec.yourlearning.ibm.com/w3/series/10325380?layout=grid
+
+
+Jose Luis Armenta Mandujano
+Director de Infraestructura y Telecomunicaciones
+jlarmenta@scotiabank.com.mx
+(55) 3717.5347
++525537175385
+
+Lorenzo Boturini 202
+06820 DEL. CUAUHTEMOC, DIF
+Mexico
+
+MARIA DE LA LUZ HERRERA LARA <larah@kyndryl.com>
++52 8113832290
+
+
+The developer could identify 19 segments yet to be processed. Each one delays about an hour to be processed. Having 19 segments C9002AA1 will still have about 14 or 15 hours to process.
+
+
+The client is following the progress in dst and writing down the time it takes on each segment.
+
+
+
+IBM Cloud Pak System W3700-80
+
+
+
+
+Sylvia Elena Bertazza
+Edited 25 de January de 2023 at 11:46 AM
+To: Internal
+
+Meeting with Kyndryl: They told us they got everything under control for the moment. They were running the tool to clean up the transactions
+
+CALL QTNCLEAN PARM(1)
+
+Action plan: WF client feedback
+
+
+Sylvia Elena Bertazza
+25 de January de 2023 at 12:46 PM
+To: Internal
+
+No further action needed for now, will check up on them tomorrow morning.
+
+
+1. recomendaciones generales
+2. conclusión del caso
+3. propuesta de cloud
+4. plan de Walmart
+
+
+Red Hat Learning Subscriptions
+https://w3.ibm.com/w3publisher/cloud-paks-skills-and-certification/red-hat/red-hat-learning-subscriptions
+
+
+
+Red Hat Learning Subscription program
+TLS
+https://w3.ibm.com/w3publisher/red-hat-tss-announcement-and-updates/rhls-red-hat-learning-subscription
+
+
+-------------------------------------------------------------------------------
+
+
+Hi Luis,
+
+I noticed your questions in the CSP case for Kyndryl, Scotia Bank.  I will let Sylvia respond to you as well but I do have some info I can provide in parallel which may answer some of your questions.
+The defective PTF they loaded was SI79395 (for their 7.3 release of the IBMi OS) which was identified as defective in August 2022.  A hyper fix was created and was made avail as a hyper and in a cumulative package in December.  Clients were notified of both through My Support notifications.  The ‘fixing’ ptf is SI80825 which prevents it from happening again.  The following link is to guide clients in determining their exposure when they notice they have the SI79395 installed.  https://www.ibm.com/support/pages/node/6614215
+
+Best Regards,
+Dave
+
+David Baumgardner
+Emergency Response Manager, Shift Lead
+dave.baumgardner@IBM.com
+507-951-8602
+Hours: 10am – 6pm CT
+
+
+730 - Defective PTFs
+https://www.ibm.com/support/pages/node/6198546
+
+730 - Summary of Hiper and Defective PTFs
+https://www.ibm.com/support/pages/node/6198545
+
+
+Long IPL or IASP vary on in Commit Recovery (C900 2AA1)
+https://www.ibm.com/support/pages/node/6614215
+
+SI80825 - OSP-DB Long C9002AA1 at IPL
+https://www.ibm.com/support/pages/ptf/SI80825
+
+Stay up to date with My Notifications
+https://www.ibm.com/support/pages/my-notifications-subscription-service
+
+
+PowerVM VIOS Standard Edition_2.2.x - Withdrawal notification
+https://www.ibm.com/support/pages/node/1236910
+
+
+-------------------------------------------------------------------------------
+
+
+Sensor 'BATT-VOL': out-of-range reading: 2.544
+
+
+0263
+
+RTS On-Duty. Technical Team Leader.
+
+
+Collaborative Lifecycle Management (CLM)
+
+
+OSS-LA-NLS-MX
+OSS-LA-MX-Sched
+
+
+CHRIS ROBINSON
+26 de January de 2023 at 04:46 PM
+
+Thank you for the document, I'll ask around and see if there is anything we can provide.
+
+I'll keep you posted via the case.
+
+Chris R.
+
+
+Felipe Augusto felipe.rojas@audi.mx
+
+Felipe Augusto Rojas Yarce <felipe.rojas@audi.mx>
+Unix Team <dl-tsmx-aix-group@t-systems.com>
+
+
+PowerVM VIOS Lifecycle Information
+https://www.ibm.com/support/pages/powervm-vios-lifecycle-information
+
+Virtual I/O Server (VIOS) Maintenance Strategy
+https://www.ibm.com/support/pages/node/6824225
+
+VIOS Fix Level Recommendations
+https://esupport.ibm.com/customercare/flrt/liteTable?prodKey=vios
+
+VIOS 3.1.4.10 Fix Pack Release Notes
+https://www.ibm.com/support/pages/node/6842967
+
+
+Thank you for the document, I'll ask around and see if there is anything we can provide.
+
+I'll keep you posted via the case.
+
+
+Chris R.
+
+
+Stay up to date with My Notifications
+https://www.ibm.com/support/pages/my-notifications-subscription-service
+
+IJ44606: VIOS SNAP TOO LARGE NOT HANDLED BY STAT() WELL
+https://www.ibm.com/support/pages/apar/IJ44606
+
+The problem has been seen on VIOS 3.1.3.10.
+
+IJ44951: MANY DEFUNCT PROCESSES UNDER VIO_DAEMON
+https://www.ibm.com/support/pages/apar/IJ44951
+
+Problem observed on VIOS 3.1.4.10
+
+
+We are considering activities such as our asset and floorspace consolidation (locating, disposing, labeling, or packing assets for shipping).  The education team is also considering using Kyndryl to produce videos or materials for education.  Any other ideas you have are welcome - this is a great opportunity to get some additional help during a time I know we're all resource-constrained!
+ 
+I've attached a template for you to use and will reach out individually to see if you have any questions.  Thanks in advance for your ideas! 
+ 
+
+Caryn Woodruff
+Director of Technology
+IBM Systems - TLS
+1 919 332 3454 Mobile
+caryn@us.ibm.com
+
+
+- Checkpoint de las capacitaciones de Red Hat.
+
+Equipo de Chris Anssani es exclusivo de soporte, no llevan a cabo implementaciones.
+Equipo de Technology Services, de Hannah Linder, hacen algunos servicios pero no de arquitectura/implementaciones.
+	Ismael Solís Moreno (arquitecto)
+
+Revisar cualquier problema con Red Hat, con Rodney Reyes
+Gustavo Barrios, especialista de Argentina con amplia experiencia en Red Hat, Ansible, OpenShift, etc.
+Luchito Peñafiel, de Chile
+
+Rodney Reyes, va a apoyarnos a obtener vouchers de certificación.
+Buscar las certificaciones de Red Hat.
+Más del 90% de los servicios de Open Source son en Intel.
+
+
+NetIQ Access Manager
+
+
+como tal un especialista no , pero Felipe le mando nota a Alfredo Olvera y Perla para que tomaran el curso deja ver como va y a parte estoy viendo con Jorge Luis Delgadillo y a los ingenieros de Xseries
+
+Saurabh Bhide
+
+
+Les comparto esta frase: We are all in a constant state of becoming. So, let your desired future self be the thing predicting your current behavior — not your past.
+
+
+Modelos SMART and GROW
+
+
+idg# show version
+idg# show system
+idg# show sensors-other
+idg# test hardware
+
+
+Planning and prerequisites
+https://www.ibm.com/docs/en/spectrum-fusion/2.1?topic=planning-prerequisites
+
+
+Engineering Lifecycle Management
+
+
+TS012106895
+TELEFONOS DE MEXICO, S.A.B. DE C.V.	Complimentary Case
+TS012106332
+TELEFONOS DE MEXICO, S.A.B. DE C.V.	Complimentary Case
+TS012106318
+TELEFONOS DE MEXICO, S.A.B. DE C.V.	Complimentary Case
+TS012106293
+TELEFONOS DE MEXICO, S.A.B. DE C.V.	Complimentary Case
+TS012106250
+TELEFONOS DE MEXICO, S.A.B. DE C.V.	Complimentary Case
+
+
+IBM Cloud Pak for Integration
+https://www.ibm.com/mx-es/products/cloud-pak-for-integration
+
+IBM Cloud Pak for Integration
+https://www.ibm.com/products/cloud-pak-for-integration
+
+
+Account Name
+CEMEX OPERACIONES MEXICO SA DE C.V.
+Account CMR Number
+0996595
+
+
+mrz.fer03@gmail.com
+26Ramirez11
+
+
+781-020886
+8286-10EDE6P
+
+5733SPE
+5733SP3
+
+IBM PowerHA SystemMirror for i Standard Edition 3Yr SW Maintenance Renewal (5663-HAM)
+IBM PowerHA SystemMirror for i Enterprise Edition 3Yr SW Maintenance Renewal (5663-HAE)
+
+5770-HAS IBM PowerHA SystemMirror for i 7.5
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/s/760/ENUS5770-HAS/index.html
+
+Supported product list
+Software Maintenance (SWMA) for IBM eServer i/Series & AIX Operating System
+https://www-50.ibm.com/services/supline/products/ipseries.html
+
+5770-BR1 IBM Backup, Recovery and Media Services for i 7.5
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/1/877/ENUS5770-BR1/index.html
+
+5770-PT1 IBM Performance Tools for i 7.4
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/1/872/ENUS5770-PT1/index.html
+
+
+Case TS012121371
+IBM i license Keys for serial number 10EDE6P processor group P20
+
+
+5770BR1 Backup Recovery and Media Services for i
+5770PT1 Performance Tools for i
+
+Product    Version    Feat PGrp Limit
+5770BR1    V7R4M0     5050 P20  *NOMAX
+5770BR1    V7R4M0     5101 *ANY *NOMAX
+5770PT1    V7R4M0     5050 P20  *NOMAX
+5770PT1    V7R4M0     5101 P20  *NOMAX
+5770SS1    V7R4M0     5050 *ANY *NOMAX
+5770SS1    V7R4M0     5103 *ANY *NOMAX
+5770SS1    V7R4M0     5117 P20  *NOMAX
+5770ST1    V7R4M0     5050 P20  *NOMAX
+5770WDS    V7R4M0     5103 P20  250  
+5770XW1    V7R4M0     5101 P20  *NOMAX
+
+
+ESS - Software Key Support <wwswkeys@dk.ibm.com>
+llhirsch@us.ibm.com
+
+
+-------------------------------------------------------------------------------
+
+
+Sesgos cognitivos comunes:
+
+- Aversión a la pérdida. (Ofertas "únicas", descuentos, etc.)
+- Sesgo de confirmación. (Gratificación instantánea)
+- Sesgo de anclaje. (Uno se ancla más a la marca que al producto)
+- Efecto rebaño. (Todos lo tienen, yo también lo quiero)
+
+Cómo evitar los sesgos:
+
+- Desarrolla y apégate a un plan a largo plazo. (Objetivos claros para detener los gastos innecesarios)
+- Prueba tu plan preguntándote dónde te pudiste haber equivocado.
+- Edúcate continuamente.
+
+Yo uso excel, sin embargo uso una app que se llama wallet, de BudgetBakers
+
+
+-------------------------------------------------------------------------------
+
+
+Víctor Leobardo Marín Gamboa (vmarin@ibm.com)
+Jonnathan Peralta Bautista (jonnathanpb@ibm.com)
+Sergio Gómez Jiménez (Sergio.Gomez.J@ibm.com)
+
+
+-------------------------------------------------------------------------------
+
+
+5639-FS1 IBM FlashSystem A9000/A9000R Software 12.3
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/1/877/ENUS5639-FS1/index.html&lang=en
+
+IBM FlashSystem A9000/A9000R Software 12.3.x
+https://www.ibm.com/support/pages/node/1189906
+
+EOS: 31-Jul-2023
+
+Software withdrawal and support discontinuance: IBM FlashSystem A9000, A9000R, and IBM XIV software
+https://www.ibm.com/common/ssi/cgi-bin/ssialias?subtype=ca&infotype=an&appname=iSource&supplier=897&letternum=ENUS922-105
+
+Licensed program software
+
+Effective on the date shown, IBM will discontinue support for specific versions and releases of the following programs licensed under the IBM International Program License Agreement:
+
+Program number	Program name							VRM		Discontinuance of support date
+5639-FS1		IBM FlashSystem A9000/A9000R Software	12.3.x	July 31, 2023
+
+
+IBM FlashSystem A9000/A9000R Code Update Recommendation
+https://www.ibm.com/support/pages/ibm-flashsystem-a9000a9000r-code-update-recommendation
+
+IBM FlashSystem A9000/R: In rare cases a HyperSwap failover of a system that didn't fail might not block I/O from that system as required, resulting in the potential for undetected data corruption
+https://www.ibm.com/support/pages/node/6848807
+
+If your system is set to use HyperSwap, upgrade to version 12.3.2.e as soon as possible.
+
+Services withdrawal: Declaration of plan to discontinue lease, rental, and maintenance services for select machines
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/3/899/ENUSLS22-0013/index.html
+
+END OF SERVICE
+
+IBM will withdraw from its maintenance agreements the IBM machine types and models for the products listed below, effective on the End of Service (EoS) dates listed:
+
+IBM PRODUCTS
+
+Effective July 31, 2023:
+
+Storage Products
+Machine type	Model	EoS effective date
+9835			425		July 31, 2023
+
+Wenzel Kalabza
+SME (PFE) for the XIV - A9000/R - Spectrum Accelerate Storage Products
+Wenzel Kalabza/Germany/IBM
+WKALABZA@de.ibm.com
+
+Noriaki Sakaniwa
+Storage Systems Technical Support, FlashSystem Series SME
+Noriaki Sakaniwa/Japan/IBM
+SAKANIWA@jp.ibm.com
+
+
+-------------------------------------------------------------------------------
+
+
+* Red Hat Learning Subscription
+
+My Red Hat contact provided a contact that should be able to help:  Dave Frueauf (dfrueauf@redhat.com). Dave handles training for IBM.
+
+#red-hat-faq-learning
+
+Enrollment in Red Hat training is for a 12-month subscription
+
+You can check your subscription status by logging in with your Red Hat ID or you can ask Debbie Kazlausky (dpkaz@us.ibm.com)
+
+If you need to renew your subscription or to sign up a new person (in the US or Canada), instructions are on the following pages
+
+If you are in Latin America, send a note to Debbie Kazlausky (dpkaz@us.ibm.com) with the name of the person you wish to enroll or renew
+
+
+
+-------------------------------------------------------------------------------
+
+
+IBM i Access - Client Solutions
+https://www.ibm.com/support/pages/ibm-i-access-client-solutions
+
+IBM Institute for Business Value
+https://www.ibm.com/thought-leadership/institute-business-value/en-us/
+
+
+-------------------------------------------------------------------------------
+
+
+Enhanced Customer Data Repository (ECuRep) - Terms of use
+https://www.ibm.com/support/pages/enhanced-customer-data-repository-ecurep-terms-use
+
+
+-------------------------------------------------------------------------------
+
+
+IBM i Access for Windows (5770-XE1)
+https://www.ibm.com/docs/es/i/7.4?topic=programs-i-access-windows-5770-xe1
+
+IBM® i Access for Windows está fuera de servicio a partir del 30 de abril de 2019. La sustitución sugerida es IBM i Access Client Solutions (5733-XJ1). Para obtener más información sobre IBM i Access Client Solutions visite https://www.ibm.com/support/docview.wss?uid=isg3T1026805
+
+IBM i Access - Client Solutions
+https://www.ibm.com/support/pages/ibm-i-access-client-solutions
+
+IBM i Access - Overview
+https://www.ibm.com/support/pages/ibm-i-access-overview
+
+IBM i Access - Windows
+https://www.ibm.com/support/pages/ibm-i-access-windows
+
+End of Support
+
+Effective April 30, 2019, IBM® has withdrawn support for 5770-XE1 IBM i Access for Windows™  7.1.  IBM i Access for Windows 7.1. was delivered with IBM i 7.3, 7.2, and 7.1.  Extended support will not be available.
+
+5733XJ1 IBM i Access Client Solutions - Getting Started
+https://iwm.dhe.ibm.com/sdfdl/v2/regs2/sharee2/iacs-java/v1r1/Xa.2/Xb.Fjx4e5cja3g6pe59Og6sz7hahpSkvuoMsZuOUUdj2IQ/Xc.iacs-java/v1r1/GettingStarted_en.html/Xd./Xf.lPr.D1vk/Xg.12167893/Xi.swg-ia/XY.regsrvs/XZ.ZEzo2VlbKKgDaPA-BvMro2Fs1nub1qFg/XX.text/html/GettingStarted_en.html
+
+Customers using IBM i 7.2 or later that have current entitlement can acquire IBM i Access Client Solutions by either of the following two methods:
+
+Download the base IBM i Access Client Solutions package.
+Download the base package and optional Windows and Linux application packages from the Entitled Systems Support (ESS) website under 5761-SS1 or 5770-SS1.
+
+
+-------------------------------------------------------------------------------
+
+
+S/N 7836262
+3567/DH8 IBM PUREDATA SYSTEM FOR ANALYTICS N3001
+3567-DH8
+
+Device: IBM PureData System for Analytics N3001 - 3567 (3567-GE9,3567-CH8,3567-DH8,3567-EE9,3567-KE9,3567- PE9,3567-ME9)
+Manufactured by INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+
+E0K6RLL		Subsequent Appliance Business Critical Service Upgrade 12 Months
+
+
+-------------------------------------------------------------------------------
+
+
+IBM Business Automation Workflow and IBM Integration Designer Software Support Lifecycle Addendum
+https://www.ibm.com/support/pages/ibm-business-automation-workflow-and-ibm-integration-designer-software-support-lifecycle-addendum
+
+
+Call home server IP addresses for automated Service and Support requests
+https://www.ibm.com/support/pages/call-home-server-ip-addresses-automated-service-and-support-requests
+
+Preparing customer firewalls and proxies for the upcoming infrastructure changes – Call Home, Electronic Fix Distribution
+https://www.ibm.com/support/pages/node/6853429
+
+
+-------------------------------------------------------------------------------
+
+
+IBM System Storage Productivity Center
+
+
+Family 2805+04 IBM System Storage Productivity Center Model MC5
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/4/877/ENUS2805-_h04/index.html
+
+Hardware withdrawal: IBM System Storage Productivity Center 2805 Model MC5 and select features
+https://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=877/ENUSZG12-0248&infotype=AN&subtype=CA&appname=wwwsearch
+
+Services withdrawal: Declaration of plan to discontinue lease, rental, and maintenance services for select machines
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/2/760/ENUSJS17-0032/index.html
+
+
+-------------------------------------------------------------------------------
+
+
+ Información respecto a las notificaciones de My Support:
+
+Stay up to date with My Notifications
+https://www.ibm.com/support/pages/my-notifications-subscription-service
+
+
+-------------------------------------------------------------------------------
+
+
+
+MATTHEW SEGALL
+23 de February de 2023 at 10:04 AM
+
+Received a syslog which is out of context. Need the additional data.
+
+
+-------------------------------------------------------------------------------
+
+
+TS012220851
+
+Software withdrawal and support discontinuance: Select IBM AI Applications, IBM Automation, IBM Security, IBM Z & LinuxOne products or part numbers - Some replacements available
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/4/649/ENUSA21-0124/index.html&request_locale=en
+
+
+E060BLL	IBM Tivoli Netcool Performance Manager Base Netcool Performance Manager Install Annual SW Subscription & Support Renewal	All	November 19, 2021
+E060CLL	IBM Tivoli Netcool Performance Manager Base Resource Value Unit Annual SW Subscription & Support Renewal	All	November 19, 2021
+E0605LL	IBM Tivoli Netcool Performance Manager Techpacks Tier 1 Application Instance SW Subscription & Support Renewal	All	November 19, 2021
+E0606LL	IBM Tivoli Netcool Performance Manager Techpacks Tier 2 Netcool Performance Manager Install Annual SW Subscription & Support Renewal	All	November 19, 2021
+
+
+Announcement: End of Life for IBM Tivoli Netcool Performance Manager (TNPM)
+https://www.ibm.com/support/pages/announcement-end-life-ibm-tivoli-netcool-performance-manager-tnpm
+
+
+-------------------------------------------------------------------------------
+
+
+Problem Description:
+IBM BAW 19.0.3 support  comes to an end by September 2022.  If We don't do further upgrade and need an extended support,
+1. Is it possible to get the extended support?
+2. If so, what are the steps to be taken to get the extended support?
+
+Thanks
+Resolution Description:
+You can check with your sales team, but I do not believe there is any plan for extended support for BAW 19.0.0.3 to be offered. It is absolutely recommended that you upgrade to a newer LTSR release of BAW before September.
+
+IBM Business Automation Workflow and IBM Integration Designer Software Support Lifecycle Addendum
+
+https://www.ibm.com/support/pages/ibm-business-automation-workflow-and-ibm-integration-designer-software-support-lifecycle-addendum
+
+"
+
+Single code stream
+
+IBM Business Automation Workflow and IBM Integration Designer are single code streams, meaning
+
+A single version is offered with an indeterminate amount of future updates by way of frequent SSCD update releases.
+A single edition is offered. This could change in the future with additional editions introduced to provide variance in functionality.
+The single code stream eliminates End of Support (EOS) Announcements for specific versions and, therefore, a Support Extension is not available for specific versions. If the offering is withdrawn, IBM will announce (formally) the EOS at least 6 months in advance and may offer a Support Extension.
+"
+
+This is a routine maintenance task, and should not be challenging. If you have questions about the upgrade steps, please open a case to discuss them:
+
+Upgrading profiles from IBM Business Automation Workflow V18.0.0.x, V19.0.0.x, or V20.0.0.1 to IBM Business Automation Workflow V20.0.0.2
+
+https://www.ibm.com/support/pages/node/6365899
+
+
+-------------------------------------------------------------------------------
+
+
+
+Abhijit Kulkarni
+27 de January de 2023 at 05:30 PM
+
+========================================
+
+Hello Javier,
+
+Action Plan:
+--------------
+
+-Bottom DAC on spu0107 needs to be replaced OR BPE4.
+
+-After the hardware replaced successfully we need to re-balance the system which will take around 20-30 minutes of downtime.
+
+-However, if no downtime after hardware replaced successfully then we can perform re-balance later, once you have downtime.
+
+-Please provide us with a convenient date and time slot for the replacement, so we can check the feasibility and revert to you accordingly.
+
+Below data center address:
+-------------------------
+
+System location : AK-19
+Av. Cerro de las Torres No. 395
+Col. Campestre Churubusco CP 04200
+
+Please feel free to revert in case of any questions.
+
+------------------------------------------------------
+
+Thank you,
+Abhijit Kulkarni
+Technical Support Engineer, PDA & IIAS
+IBM Data & AI
+Email: abkulkar@us.ibm.com
+
+========================================
+
+
+-------------------------------------------------------------------------------
+
+
+End of Service dates for IBM MQ, WebSphere MQ, MQSeries and other WebSphere Business Integration products
+https://www.ibm.com/support/pages/end-service-dates-ibm-mq-websphere-mq-mqseries-and-other-websphere-business-integration-products
+
+WebSphere MQ for z/OS_7.1.0 - Withdrawal notification
+https://www.ibm.com/support/pages/node/1269352
+
+WebSphere MQ for z/OS
+Version7.1.0
+PID 5655-R36
+
+GA: 25-Nov-2011
+EOM: 05-Sep-2016
+EOS: 06-Nov-2017
+
+
+-------------------------------------------------------------------------------
+
+
+Dave Tiler
+Manager, Digital Business Automation Support, Workflow IAM, UI, and CP4BA Software
+
+
+Miguel Angel Barragan Garcia
+CSM Architect - Manager
+Miguel.Barragan@ibm.com
+@Miguel Barragán
+
+
+Sandra Pioquinto
+Customer Success Manager
+Sandra.Pioquinto@ibm.com
+@sandra.pioquinto
+
+
+-------------------------------------------------------------------------------
+
+
+Alfonso Nápoles Gándara No. 3111, Peña Blanca, Alvaro Obregón
+Zedec Santa Fe, 01210 Ciudad De Mexico, Distrito Federal, México
+
+
+-------------------------------------------------------------------------------
+
+
+Level 2-Signed & Active Agreements
+
+
+-------------------------------------------------------------------------------
+
+
+IBM Cloud Pak for Business Automation 21.0.1 delivers a new cross Cloud Pak user experience for business automation developers
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/3/877/ENUSZP21-0123/index.html
+
+
+Family 9835+02 IBM FlashSystem A9000R
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/2/649/ENUS9835-_h02/index.html&lang=en&request_locale=en
+
+
+IBM QRadar consolidates software offerings and refreshes appliances, streamlining licensing and simplifying setup of QRadar security platforms
+https://www.ibm.com/common/ssi/cgi-bin/ssialias?infotype=AN&subtype=CA&htmlfid=877/ENUSZP17-0040&appname=STG_PS_ESES_ANNO
+
+
+QRadar: High Availability FAQ
+https://www.ibm.com/support/pages/node/6565347?mhsrc=ibmsearch_a&mhq=IBM%20QRadar%20High%20Availability
+
+
+IBM Security QRadar SIEM
+https://www.ibm.com/mx-es/products/qradar-siem
+
+
+Publications for the IBM Informix 12.10 family of products
+https://www.ibm.com/support/pages/publications-ibm-informix-1210-family-products
+
+
+SWG Appliances and Solutions
+https://ibm.ent.box.com/s/0nayi1j6ovfbgchhy1hswx5j00fdrnae
+
+
+IBM Cloud Pak System V2.3.0 delivers a turnkey integrated solution for IBM Cloud Paks as a private cloud in a box
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/5/877/ENUSZP19-0435/index.html
+
+
+When to Use “Hope You are Well”
+https://livexp.com/blog/what-can-i-write-instead-of-hope-you-are-well/?utm_source=blog-en&utm_medium=article&utm_campaign=%2Fblog%2Fwhat-can-i-write-instead-of-hope-you-are-well%2F
+
+31 Ways to Say ‘Hope You’re Doing Well’ in an Email or Text
+https://www.joincake.com/blog/hope-you-are-doing-well/#:~:text=Here%20are%20some%20professional%20ways,are%20having%20a%20productive%20day.%22
+
+Como decir Gracias por todo en inglés
+https://www.youtube.com/watch?v=OiiR3aaVOqE&t=102s
+
+
+Tenencia (347YPX) - Recibo de pago a la tesorería 2023
+Tenencia (347YPX) - Formato múltiple de pago a la tesorería 2023
+
+
+-------------------------------------------------------------------------------
+
+
+Paramtej Shergill
+22 de February de 2023 at 02:36 PM
+Post
+To: All
+
+Greetings Erick,
+
+Thank you for contacting IBM Support. This is Paramtej Shergill from the IBM BAW Support team and I would like to assist you on this issue.
+
+For the error you are getting when launching Installation Manager, I found the following mysupport post:
+https://www.ibm.com/mysupport/s/question/0D50z000062kfuiCAA/installation-manager-cannot-be-started-the-registry-information-does-not-exist-why?language=en_US
+
+"The error message indicates an error in retrieving the IM registry file.
+
+For administrator installation on Linux, UNIX, and z/OS platforms, the registry file is located at
+/etc/.ibm/registry/InstallationManager.dat
+
+For the non-admin user, the registry file is located at
+$HOME/etc/.ibm/registry/InstallationManager.dat
+
+Make sure the file exists, is not compressed and has the right permission."
+
+Also, try running these commands and share the results,
+
+..../InstallationManager/eclipse/tools ---- ./imcl version
+..../InstallationManager/eclipse/tools ---- ./imcl listInstalledPackages
+..../InstallationManager/eclipse/tools ---- ./imcl listInstallationDirectories
+
+Best regards,
+Paramtej
+
+
+-------------------------------------------------------------------------------
+
+
+admin
+password
+
+http://192.168.0.1/?firewall_settings
+
+
+C:\Windows\System32>tracert 8.8.8.8
+
+Tracing route to dns.google [8.8.8.8]
+over a maximum of 30 hops:
+
+  1     1 ms     3 ms     2 ms  192.168.0.1
+  2   490 ms   503 ms   517 ms  10.183.192.1
+  3     *     10.3.26.218  reports: Destination net unreachable.
+
+Trace complete.
+
+C:\Windows\System32>
+
+
+-------------------------------------------------------------------------------
+
+
+ACCIONES Y VALORES BANAMEX S A DE C V
+0409701
+
+Cognos Analytics
+Passport Advantage
+
+Cloud Pak for Data
+Passport Advantage
+
+
+CITIBANK N. A
+1740749
+
+Cognos Analytics
+Passport Advantage
+
+Cloud Pak for Data
+Passport Advantage
+
+
+CITIBANK N.A (DIST. TECH. INFRASTRUCTURE)
+0118981
+
+Cognos Analytics
+Passport Advantage
+
+Cloud Pak for Data
+Passport Advantage
+
+
+
+-------------------------------------------------------------------------------
+
+
+IBM DB2 Analytics Accelerator for z/OS
+5697-DA5
+VRM 5.1.0
+
+
+Db2 Analytics Accelerator for z/OS_5.1.0
+https://www.ibm.com/support/pages/db2-analytics-accelerator-zos510
+
+Db2 Analytics Accelerator for z/OS
+Version: 5.1.0
+PID: 5697-DA5
+
+EOS: 30-Apr-2023
+
+Lifecycle policy:
+Enhanced (E): minimum 5 years support with extension of 3 years
+
+
+5697-DA5 IBM DB2 Analytics Accelerator for z/OS 5.1
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/5/760/ENUS5697-DA5/index.html
+
+Marketing Withdrawn: 2020-03-30
+Service Discontinued: 2023-04-30
+
+
+Product lifecycle
+https://www.ibm.com/support/pages/lifecycle/search?q=DB2%20Analytics%20Accelerator%20for%20z%2FOS%20
+
+
+
+
+-------------------------------------------------------------------------------
+
+
+Security and Privacy by Design for Software Development 101
+
+
+Eduardo Villalon - evillal@us.ibm.com
+Benjamín Maciel - macielb@mx1.ibm.com
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+IBM Business Process Manager Advanced_8.5.x - Withdrawal notification
+https://www.ibm.com/support/pages/node/1193938
+
+IBM Business Process Manager Advanced
+Version: 8.5.x
+EOS: 30-Sep-2019
+
+
+IBM Business Process Manager detailed system requirements
+https://www.ibm.com/support/pages/ibm-business-process-manager-detailed-system-requirements
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Level 2 - Signed & Active Agreements
+http://aimcentral.rtp.raleigh.ibm.com/sbmt-server.nsf/382da53a788492c68625717900009757/$searchForm?SearchView
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+JULIA TWEDDLE
+7 de March de 2023 at 05:46 PM
+
+Greetings Guillermo,
+
+I am presently reviewing your case and will respond with an answer asap
+
+With Thanks
+Julia
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Db2 Distributed end of support (EOS) dates
+https://www.ibm.com/support/pages/db2-distributed-end-support-eos-dates
+
+Db2 Version 10.5
+End of Support (Base): April 30, 2020
+End of Support (Extended): April 30, 2023
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+What will you learn today?
+https://yourlearning.ibm.com/
+
+
+Publisher Diversidad e inclusion global: https://w3.ibm.com/w3publisher/global-diversity-inclusion •Pack de entrenamientos D&I disponibles: https://w3.ibm.com/w3publisher/global-diversity-inclusion/learning-offerings •¿Qué es una BRG?: https://w3.ibm.com/w3publisher/businessresourcegroups/ Canales de Slack: •Diversity Global: https://ibm-hr.slack.com/archives/C1012KQH3 •Diversity SSA: https://ibm-ssa-community.slack.com/archives/C010EM40RUY •LGBT+ allies: https://brgcommunity.slack.com/archives/C018C5MF
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Edgar Bello (Customer)
+10 de March de 2023 at 11:03 AM
+Post
+To: All
+Buenos días,
+
+
+Aún no nos proporcionan la sesión donde nos brindaran el apoyo.
+
+La actividad está programada para el día de mañana 11 de Marzo a las 10 am.
+
+
+
+Saludos.
+
+
+
+Edgar Bello (Customer)
+7 de March de 2023 at 09:59 AM
+Post
+To: All
+Good morning,
+
+On Saturday, March 11 at 9:00 p.m., the restart of the equipment will be applied.
+
+For this reason, we ask for your support with a session during the ENTIRE window of the activity, so that if the equipment is not picked up, they can help us with the recovery tasks.
+
+
+
+Can you share the name of the engineer who will be providing support and the follow-up session?
+
+
+
+Greetings.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+SSID:	ARRIS-D912
+Protocol:	Wi-Fi 4 (802.11n)
+Security type:	WPA2-Personal
+Manufacturer:	Intel Corporation
+Description:	Intel(R) Wi-Fi 6 AX201 160MHz
+Driver version:	22.190.0.4
+Network band:	2.4 GHz
+Network channel:	6
+Link speed (Receive/Transmit):	144/144 (Mbps)
+IPv6 address:	2806:2a0:c08:8c30:b74c:2b9c:acf8:55da
+Link-local IPv6 address:	fe80::e990:fbb8:a903:63a2%5
+IPv6 DNS servers:	2806:2a0:28::2 (Unencrypted)
+2806:2a0:2c::2 (Unencrypted)
+IPv4 address:	192.168.0.10
+IPv4 DNS servers:	10.2.9.164 (Unencrypted)
+10.2.9.196 (Unencrypted)
+Physical address (MAC):	DE-07-22-EF-9D-13
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+IBM Online Support for Business Partners - Opening, Viewing, or Updating Cases
+https://www.ibm.com/support/pages/ibm-online-support-business-partners-opening-viewing-or-updating-cases
+
+Plus is more
+https://www.ibm.com/partnerplus/
+
+
+A task control block (TCB) represents a z/OS® task. A running CICS® system is a z/OS address space containing multiple TCBs and hence multiple z/OS tasks.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+TS012312931
+MOLINO HARINERO SAN BLAS S.A. DE C.V.
+
+78916A0
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+TS012294457
+
+Account Name
+MOLINO HARINERO SAN BLAS S.A. DE C.V.
+Account CMR Number
+0019883
+
+Machine Serial Number
+78916A0
+
+ENVIRONMENT: 7200-04-01-1939
+Hostname: MXPUPUXPORA01
+Model: IBM,9009-22A
+Firmware: VL940_034 (t)
+Serial: IBM,0678916A0
+
+
+After replacing a couple of disks, they were configured and formatted, a RAID 10 was configured and the disks were integrated to this raid successfully:
+
+********** RAID Configuration *************
+------------------------------------------------------------------------
+Name Resource State Description Size
+------------------------------------------------------------------------
+sissas0 FEFFFFFF Available PCIe3 x8 SAS RAID Internal Adapter 6Gb
+
+hdisk5 FC0000FF Optimal 4K RAID 10 Array 283.8GB
+pdisk1 0002FFFF Active 4K Array Member 283.9GB
+pdisk0 0003FFFF Active 4K Array Member 283.9GB
+
+Nevertheless, we haven't been able to test/certify the disk units through AIX. We already updated the HD controller firmware but the same issue remains. Hardware L2 Support suggested to update disks firmware, but we haven't been able to do it either. The backplane card has also been replaced but nothing changed.
+
+Hardware L2 Support suggested the following action plan:
+
+------------------------------------------------------------------------
+
+1 - Please use "diags" on the running system and delete the array.
+2 - Format the two internal disk units.
+3 - Run advanced diagnostics to test/certify the disk units.
+4 - Attempt to update the disk unit firmware.
+
+Report any issues you have with any of these steps.
+
+If all these steps are successful, AIX SW Support will need to be contacted for assistance getting the OS moved back onto the internal disk.
+
+------------------------------------------------------------------------
+
+We have been able to perform the 2 first steps, we already deleted the entire raid array after two drives replaced, we did it twice, also deleted sissas0, pdisk0, pdisk1 using the command rmdev -Rdl, then we did a cfgmgr and created the raid array. And when we run advanced diagnostics, again, we can't see the disks to test/certify them.
+
+Could you be so kind to help us with this issue? The hardware case is TS012294457, the customer has already uploaded some snaps for further analysis in that case. If you need additional information or want us to share those snaps in this case, please just let me know.
+
+Thanks in advance!
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Please upload snap from the VIO server that was impacted and its partner VIO on that same frame and one of the client snaps
+
+To collect snap from VIOs run below from padmin without any flags.
+
+$ snap ( data in /home/padmin/snap.pax.Z )
+
+To gather snap from client lpar on that same frame use"
+
+# snap -r ;
+# snap -ac ( data in /home/padmin/snap.pax.Z)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Family 2076+03 IBM Storwize V7000
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/3/760/ENUS2076-_h03/index.html
+
+Family 2499+03 IBM Systems Storage SAN768B-2 and SAN384B-2
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/3/872/ENUS2499-_h03/index.html&request_locale=en#smsoft
+
+7014-T42 IBM Rack Model T42
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/2/872/ENUS7014-T42/index.html
+
+Family 9846+03 IBM FlashSystem 9100
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/3/649/ENUS9846-_h03/index.html
+
+
+Supported product list
+IBM Software Maintenance (SWMA)
+https://www-50.ibm.com/services/supline/products/SMMain.html
+
+
+Opciones de Cuidado Preferencial y IBM Enterprise Support para Software On-premises
+https://www.ibm.com/support/pages/ibm-enterprise-support-and-preferred-care-options-premises-software-esla
+
+
+Opciones de IBM Enterprise Support y Preferred Care para Appliances
+https://www.ibm.com/support/pages/ibm-enterprise-support-and-preferred-care-options-appliances-eses
+
+Opciones de Cuidado Preferencial y IBM Enterprise Support para Dispositivos
+https://www.ibm.com/support/pages/ibm-enterprise-support-and-preferred-care-options-appliances-esla
+
+
+783A8B8
+
+
+Rob Boretti
+15 de March de 2023 at 02:40 PM
+
+Hi
+
+Please tell us more about the problem or request. To make it easy, our first set of questions are documented in this technote:  https://www.ibm.com/support/pages/node/500269  
+
+You can use the copy and paste template in Section "B. Title Template" to upload in a word processing document to the ticket in ECuREP.
+
+With the information from the technote, please provided the health check collection set. This is a small collection set and we can use this information to understand what happened, then determine the appropriate full collection set(s) needed to further investigate.
+
+Go to System > System Troubleshooting                                        
+Click "Collect System Logs".  You then see a series of 'check box' selections.                                                       
+Confirm no other selections are checked. 
+Scroll down and check  "System Heath Check".       
+Click  "Submit" and follow the prompts to upload the collection set to this ticket.                  
+
+See this document on how to load files to IBM Support using  ECuRep (https://www.ibm.com/support/pages/node/739401)
+
+
+
+LCR: (Note: LCR = Latin America and Caribian Region)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2072-3N4
+
+Login denied
+You are attempting to use a digital certificate not assigned to this device. Connection will be terminated.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+For more information, visit: https://opensource101.com/livestreaming-open-source-101-2023/. If you need assistance, please email support@allthingsopen.org.
+
+
+78293C8
+
+781 020886 Kyndryl
+
+
+My Entitled Software
+https://www.ibm.com/docs/en/entitled-systems-support?topic=support-my-entitled-software
+
+IBM i software keys - Overview
+https://www.ibm.com/docs/en/entitled-systems-support?topic=keys-i-software-overview
+
+Software license keys
+https://www.ibm.com/docs/en/i/7.4?topic=concepts-software-license-keys
+
+IBM Support - Licensing
+https://www.ibm.com/support/pages/ibm-support-licensing-start-page
+
+
+
+I searched from other cases and found that there is some memory issue with cached_route feature.
+The cached_routes is a new performance enhancement feature by caching routing entry.
+The cached_route feature is disabled by default on platforms which are at power 9 and below.
+Platforms at power 10 and beyond will have this feature enabled by default.
+The new 'auto' mode will be the default mode unless the user manually changes the network option.
+we have many known issue caused by this, so currently we don't recommend to use this option until it will be stabilized.
+
+Please check on the setting below:
+
+-- To check the current setting
+# no -Fo cached_routes
+
+To manually disable the cached_route feature
+# no -po cached_routes=0
+
+Additionally, about the cached_routes issue mentioned, a HIPER note has been released lately:
+
+https://www.ibm.com/support/pages/apar/IJ44799
+https://www.ibm.com/support/pages/apar/IJ44047
+
+It is highly suggested to apply the ifix to avoid memory leak issues or system crash issues caused by the new feature cached_routes.
+
+
+
+78CF63X
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+CICS Transaction Server for z/OS_5.2.0 - Withdrawal notification
+https://www.ibm.com/support/pages/node/1176766
+
+CICS Transaction Server for z/OS
+Version: 5.2.0
+PID: 5655-Y04
+
+EOS: 31-Dec-2020
+
+
+KYNDRYL MEXICO S. DE R.L. DE C.V (0020948)
+
+
+CICS Transaction Server for z/OS 5.2
+z/OS 2.5
+
+Software Product Compatibility Reports
+https://www.ibm.com/software/reports/compatibility/clarity/index.html
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+IWS 9.4 patch package for Mexico DST time changes: No clock change in March 2023
+https://www.ibm.com/support/pages/node/6856971
+
+IBM MQ FAQ
+https://www.ibm.com/products/mq/faq
+
+
+
+Announcement: End of Support for IBM MQ 9.0.0 LTS and IBM MQ 9.0.x CD
+https://www.ibm.com/support/pages/node/6190011
+
+What happens to WebSphere MQ if the time changes?
+https://hursleyonwmq.wordpress.com/2007/08/21/what-happens-to-websphere-mq-if-the-time-changes/
+
+
+Customers do not used to have problems in regards to spring and fall DST adjustment.
+
+From MQ product perspective, nothing is required. MQ uses the system universal time clock (STCK) for its internal functions and is not affected by the time changes.
+
+This page says:
+
+Message context
+https://www.ibm.com/docs/en/ibm-mq/9.0?topic=messages-message-context
+
+Origin context information is typically supplied by the queue manager. Greenwich Mean Time (GMT) is used for the PutDate and PutTime fields. See the descriptions of these fields in PutDate and PutTime.
+
+And these pages also say:
+
+PutDate (MQCHAR8)
+https://www.ibm.com/docs/en/ibm-mq/9.0?topic=mqmd-putdate-mqchar8
+
+Greenwich Mean Time (GMT) is used for the PutDate and PutTime fields, subject to the system clock being set accurately to GMT.
+
+PutTime (MQCHAR8)
+https://www.ibm.com/docs/en/ibm-mq/9.0?topic=mqmd-puttime-mqchar8
+
+Greenwich Mean Time (GMT) is used for the PutDate and PutTime fields, subject to the system clock being set accurately to GMT.
+
+So if the system clock of all the LPARs are set to GMT, we expect that you will have consistent time across the QSG.
+
+
+REFERANCES:
+2006-09-30 US Daylight Saving - How changes to daylight saving time affect WebSphere MQ, WebSphere MQ Express and WebSphere MQ Everyplace
+http://www.ibm.com/support/docview.wss?uid=swg21246616
+
+2006-09-30 US Daylight Saving - How the changes to daylight saving time dates affect Broker Products
+http://www.ibm.com/support/docview.wss?uid=swg21246615
+
+
+9080-MME
+10E6F4T
+
+KYNDRYL MEXICO S. DE R.L. DE C.V
+020886
+0020886
+
+
+781020886 - 10E6F4T - IBM i software keys
+781020886 - 10E6F4T - All software - license, maintenance and ePoEs
+781020886 - 10E6F4T - Software maintenance - both active and expired
+781020886 - 10E6F4T - Software license - shipment numbers
+
+
+IBM i License topics
+https://www.ibm.com/support/pages/ibm-i-license-topics
+
+
+Software Maintenance for IBM i
+https://www.ibm.com/support/pages/node/687901
+
+IBM i and Selected Products which are included with IBM i Group SWMA
+
+
+Licensed Program Products (LPPs) for i with separate Software Maintenance (not part of IBM i Group SWMA)
+https://www.ibm.com/support/pages/node/6536866
+
+Licensed Program Products (LPPs) for i with separate Software Maintenance (not part of IBM i Group SWMA)
+
+
+Release life cycle
+https://www.ibm.com/support/pages/node/668157
+
+For information on supported releases and subsequent upgrades to newer releases, see IBM i Release support.
+
+
+Program Name (Program Number):
+IBM i V7.4 (5770-SS1)
+https://www.ibm.com/support/customer/csol/terms/?id=L-LHIH-AZ2U4S&lc=en#detail-document
+
+
+LICENSE_INFO view
+https://www.ibm.com/docs/en/i/7.3?topic=services-license-info-view
+
+Checking Software License expiration dates using SQL
+https://www.rpgpgm.com/2017/08/checking-software-license-expiration.html
+
+
+Licensing
+https://www.ibm.com/about/software-licensing/licensing/basics
+
+Perpetual license
+
+A non-expiring right to use the software. An annual Software Subscription & Support (“S&S”) payment grants you access to product support and updates for each year it is purchased. The first year of S&S is often included with the initial license purchase.
+
+
+IBM i Licensing, Part 1: Operating System Subscriptions
+https://www.itjungle.com/2022/06/06/ibm-i-licensing-part-1-operating-system-subscriptions/
+
+Big Blue has offered several licensing models over the years for the OS/400, i5/OS, and IBM i platforms. In the early years, every piece of software had a perpetual license tied to a machine, usually based on a processor group or some other unit of capacity, and then a software maintenance support contract that was paid every year that this software was active to cover the costs of keeping that software patched and updated.
+
+
+IBM ANNOUNCES LATEST IBM I OPERATING SYSTEM WITH V7.5
+https://www.tectrade.com/articles/ibm-i-operating-system-v7-5/
+
+Historically, it’s been necessary to purchase a perpetual license and associated software maintenance to provide support and new releases.
+
+Increasingly customers are looking for more flexible purchasing options that maximise Opex spending and now there is a subscription model for IBM i.
+
+
+
+Acknowledged #60913152: TS012538706 - Severity 2 - LA Power SWMA Sev2 Extended Offering - Case Created - Mexico by Luis Manuel Herrera Jimenez |  Jump
+
+
+
+Recovery from LED 552, 554, or 556 in AIX
+https://www.ibm.com/support/pages/recovery-led-552-554-or-556-aix
+
+If you followed all of the preceding steps and the system still stops at an LED 552, 554, or 556 during a reboot in Normal mode, you may want to consider reinstalling your system from a recent backup. Isolating the cause of the hang could be excessively time-consuming and may not be cost-effective in your operating environment. To isolate the possible cause of the hang, would require a debug boot of the system. Instructions for doing this are included in the document "Capturing Boot Debug", available at http://techsupport.services.ibm.com/server/aix.srchBroker . It is still possible, in the end, that isolation of the problem may indicate a restore or reinstall of AIX is necessary to correct it.
+
+Capturing Debug Boot Output With An HMC
+https://www.ibm.com/support/pages/capturing-debug-boot-output-hmc
+
+Capturing Boot Debug on Serial Console
+https://www.ibm.com/support/pages/capturing-boot-debug-serial-console
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+7:50 PM Sunday, March 26, 2023
+
+
+Vincent Goodwin
+Sandeep Dardemal
+
+
+The government eliminated the summer time change in Mexico last year, so we want to prevent this time change from taking place on the first Sunday of April. For this reason, we ask for your support in knowing if the application of any patch or necessary action is required so that this automatic time change in the operating system does not affect the appliance.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Software Download
+https://software.cisco.com/download/home/283000185
+
+Secure Client 5
+Release 5.0.01242
+https://software.cisco.com/download/home/286330811/type/282364313/release/5.0.01242
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2195D97
+21C3CC7
+21E20C7
+78ECCD7
+
+781020912 - 2195D97 - All software - license, maintenance and ePoEs
+781020912 - 2195D97 - All inventory - by hardware serial
+
+
+IBM I Processor Usage seen by License Management
+https://www.ibm.com/support/pages/ibm-i-processor-usage-seen-license-management
+
+Perform the following operations to determine the number of processors currently being used on your IBM i partitions:
+
+1. From a 5250 command line, issue the following command:
+
+CALL QSYS/QLZARCAPI
+
+2. Select the 'SYSTEM INFO ...' message at the bottom of the screen and press F1.
+
+3. Press F10 to display the full message.
+
+4. Look for the entry ENTITLED PROCESSING CAPACITY as this is the number of processors used.
+
+*Note: This can also be seen with WRKLICINF, press enter, option 5 on 5770SS1 feature 5051. The Licensed key limit will also be listed from this command as well.
+
+
+Assigning the appropriate processor entitled capacity
+https://www.ibm.com/support/pages/assigning-appropriate-processor-entitled-capacity
+
+To display the current assigned capacity entitlement use the command # lparstat|awk -F "ent=" '/ent\=/ {print $NF}'
+
+
+
+lparstat -i
+
+prtconf
+
+iostat -t
+
+
+For HW issues in CDMX, contact to                                           Guillermo Almazan
+For 4 Walls issues, contact to                                           	Zahe Nieto
+For SW/HW L2 escalations, contact to                                        Luis M. Herrera
+For SW issues, contact to                                            		Irma E. Manzanares
+
+
+Emanuelle, Amanda, Edna
+
+SAN b-type Collection
+
+
+
+Power System S822L Server
+Status
+Purchased
+Product
+Power System S822L Server
+Quantity
+Account
+SIXSIGMA NETWORKS MEXICO, S.A. DE C.V.
+Location
+CARRETERA A CHICHIMEQUILLAS KM. 21.5 S/N MPIO. EL MARQUÉZ C.P. 76250, CHICHIMEQUILLAS, QUERÉTAROQueretaroQUEMexico
+Machine Type
+8247
+Location Status
+Confirmed
+Machine Model
+22L
+Location Status Last Updated
+3/03/2023
+Serial Number
+214D53A
+
+
+TS012589963
+TS012590142
+TS012590271
+TS012590348
+TS012590518
+TS012590624
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Description:
+09:46 pm
+03/24
+Hi,
+
+hope you are doing well, this time I come here with just one question, this year in MX country the Daylight Saving time will be not used due changes in laws, so I have the question if is needed to apply the change in the servers in we work, is there something I should have to apply?
+
+thanks in advance
+
+regards
+Posts:
+Mon Mar 27 2023
+05:44 pm
+03/27
+Public | SARITHA MULUKA
+Hello Carlos,
+The only impact I can think of if you do not apply one of the suggested fixes, is having incorrect time on your system and/or log files
+
+Thank you,
+Saritha
+03:39 pm
+03/27
+Public
+Thanks Saritha, what is the impact and behavior if we do not have this fixes implemented by the date the DST supposed to happen?
+Sat Mar 25 2023
+12:55 am
+03/25
+Public | SARITHA MULUKA
+Hello Carlos,
+This is Saritha from IBM WebSphere Level2 support. You have to apply one of the two fixes available.
+there is interaction with the java and the OS and ordinarily you would not need to make changes unless there is a fundamental Timezone change
+to DST.
+
+The actual change is documented here by the way - 
+https://www.ibm.com/support/pages/apar/IJ45280 [https://www.ibm.com/support/pages/apar/IJ45280]
+
+This change is being implemented in java 8 SR8 (8.0.8) which has an expected release date for WAS clients subject to change of 30th March.
+
+The change was included in the JTZU package tz2022f and this is included in java 8.0.8 which comes with tz2022g and includes the changes made in tz2022f
+as they are cumulative.
+
+Therefore you can either download and apply tz2022f or apply java 8.0.8 when it is available.(March 30th tentative release date.
+Java SDK Time Zone Update Utility
+https://www.ibm.com/support/pages/java-sdk-time-zone-update-utility
+You do not need to make any changes to WAS just apply either tz2022f to each java install OR wait and apply java 8.0.8 which includes these changes.
+
+Thank you,
+Saritha
+IBM Software Support
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Maria Teresa Caldera Alarcon <mcaldera@vepormas.com>, "poliza@scat.com.mx" <poliza@scat.com.mx>, Mario Mendez D <mmendez@mx1.ibm.com>
+
+
+
+AIX Time Zone: Olson tzdata updates
+https://www.ibm.com/support/pages/aix-time-zone-olson-tzdata-updates
+
+
+
+What happens to WebSphere MQ if the time changes?
+https://hursleyonwmq.wordpress.com/2007/08/21/what-happens-to-websphere-mq-if-the-time-changes/
+
+Customers do not used to have problems in regards to spring and fall DST adjustment.
+
+From MQ product perspective, nothing is required. MQ uses the system universal time clock (STCK) for its internal functions and is not affected by the time changes.
+
+This page says:
+
+Message context
+https://www.ibm.com/docs/en/ibm-mq/9.0?topic=messages-message-context
+
+Origin context information is typically supplied by the queue manager. Greenwich Mean Time (GMT) is used for the PutDate and PutTime fields. See the descriptions of these fields in PutDate and PutTime.
+
+And these pages also say:
+
+PutDate (MQCHAR8)
+https://www.ibm.com/docs/en/ibm-mq/9.0?topic=mqmd-putdate-mqchar8
+
+Greenwich Mean Time (GMT) is used for the PutDate and PutTime fields, subject to the system clock being set accurately to GMT.
+
+PutTime (MQCHAR8)
+https://www.ibm.com/docs/en/ibm-mq/9.0?topic=mqmd-puttime-mqchar8
+
+Greenwich Mean Time (GMT) is used for the PutDate and PutTime fields, subject to the system clock being set accurately to GMT.
+
+So if the system clock of all the LPARs are set to GMT, we expect that you will have consistent time across the QSG.
+
+
+
+Changes to Daylight Saving Time
+https://developer.ibm.com/javasdk/support/dst/
+
+It looks like the most recent changes for Mexico were included in tzdata2022f so will also be in JTZU 1.7.22g.
+
+Java SDK Olson time zone updates
+https://www.ibm.com/support/pages/java-sdk-olson-time-zone-updates
+
+
+
+WebSphere Application Server:
+
+The actual change is documented here:
+
+IJ45280: UPDATE TIMEZONE INFORMATION TO THE LATEST TZDATA2022F
+https://www.ibm.com/support/pages/apar/IJ45280
+
+This change is being implemented in java 8 SR8 (8.0.8.0) which has an expected release date for WAS clients subject to change of 30th March.
+
+The change was included in the JTZU package tz2022f and this is included in java 8.0.8.0 which comes with tz2022g and includes the changes made in tz2022f as they are cumulative.
+
+Therefore you can either download and apply tz2022f or apply java 8.0.8.0 when it is available.
+
+Java SDK Time Zone Update Utility
+https://www.ibm.com/support/pages/java-sdk-time-zone-update-utility
+
+You do not need to make any changes to WAS just apply either tz2022f to each java install OR wait and apply java 8.0.8 which includes these changes.
+
+
+
+Hola, Octavio:
+
+Espero que estés muy bien. Solamente quería saludarte y comentarte que procederemos a cerrar ya este caso; con respecto a tu duda de si su contrato de soporte de hardware (HWMA) incluye el servicio de actualización de firmware, la respuesta es no.
+
+De cualquier manera, sería bueno que platicaras con nuestro Business Partner para ver si dicho servicio te lo incluyeron en algún otro contrato; o bien, puedes revisar con ellos directamente el costo y la adquisición de éste.
+
+Pero no te preocupes, cualquier otra duda o problema que tengas, puedes abrir un nuevo caso en cualquier momento y, con mucho gusto, estaremos listos para apoyarte.
+
+Agradeciéndote nuevamente por todo tu apoyo y confianza mi buen Octavio, quedamos a tus órdenes para cualquier duda o comentario; ¡cuídate mucho!, seguimos en contacto.
+
+Saludos, Luis Herrera
+Technical Team Leader
+Senior accredited Product Services Professional - Software Support specialization
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+IBM Integrated Analytics System
+
+Mexico is about to stop observing the Daylight Saving Time (DST) except for the area near to the border with the United States of America. It is necessary to download and install the latest tzdata package for system synchronisation. The tzdata package contains data files required for time zone transitions around the world.
+
+Install the latest tzdata and tzdata-java rpms to address the IIAS timezone issues
+https://www.ibm.com/support/pages/node/6967547
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+AIX - No DST change in Mexico
+
+You can do A or B (but we recommend applying the ifixes even if you use A):
+
+A) Use POSIX string
+
+Change /etc/environment
+
+TZ=CST6
+
+B) If using TZ=America_Mexico_City (or other Olson TZ)
+
+Apply ifixes for your oslevel. (This is recommended, even if you use POSIX for the system time, in case applications use Olson zones.)
+
+See https://aix.software.ibm.com/aix/efixes/2022g/README.txt
+
+The ifixes described in the README are available
+
+https://aix.software.ibm.com/aix/efixes/2022g
+
+After the TZ change:
+
+A reboot is not mandatory. A reboot is recommended so processes started before the change are in sync. Sometimes, only database applications require a restart to pick up time changes. If you cannot reboot immediately, check with your application teams to determine which applications should be restarted.
+
+Testing Tip: See AIX Time Zone: Sample Perl script to test TZ changes without impacting the system time
+
+https://www.ibm.com/support/pages/node/6963340
+
+
+
+See AIX support lifecycle information:
+
+https://www.ibm.com/support/pages/aix-support-lifecycle-information
+
+7200-03 went EOS 30 September 2021
+
+That means there are no longer ifixes or PTFs build for this level.
+
+If you are not able to update, there are multiple options for a workaround.
+
+You can build your own timezone database, or use SMIT to create a user defined zone, or add the POSIX string to match your requirements, in /etc/environment.
+
+See AIX Time Zone: Olson tzdata updates
+https://www.ibm.com/support/pages/node/6554212
+
+Here is a summary of the MX TZ changes, and related POSIX strings:
+
+These zones turned off DST in the fall of 2022. I would assume you already have these definitions.
+
+America/Bahia_Banderas Sun Oct 30 07:00:00 2022 UT = Sun Oct 30 01:00:00 2022 CST isdst=0 gmtoff=-21600
+America/Chihuahua Sun Oct 30 08:00:00 2022 UT = Sun Oct 30 02:00:00 2022 CST isdst=0 gmtoff=-21600
+America/Ciudad_Juarez Sun Oct 30 08:00:00 2022 UT = Sun Oct 30 02:00:00 2022 CST isdst=0 gmtoff=-21600
+America/Ciudad_Juarez Wed Nov 30 05:59:59 2022 UT = Tue Nov 29 23:59:59 2022 CST isdst=0 gmtoff=-21600
+America/Ciudad_Juarez Wed Nov 30 06:00:00 2022 UT = Tue Nov 29 23:00:00 2022 MST isdst=0 gmtoff=-25200
+America/Matamoros Sun Nov 6 07:00:00 2022 UT = Sun Nov 6 01:00:00 2022 CST isdst=0 gmtoff=-21600
+America/Mazatlan Sun Oct 30 08:00:00 2022 UT = Sun Oct 30 01:00:00 2022 MST isdst=0 gmtoff=-25200
+America/Merida Sun Oct 30 07:00:00 2022 UT = Sun Oct 30 01:00:00 2022 CST isdst=0 gmtoff=-21600
+America/Mexico_City Sun Oct 30 07:00:00 2022 UT = Sun Oct 30 01:00:00 2022 CST isdst=0 gmtoff=-21600
+America/Monterrey Sun Oct 30 07:00:00 2022 UT = Sun Oct 30 01:00:00 2022 CST isdst=0 gmtoff=-21600
+America/Ojinaga Sun Oct 30 08:00:00 2022 UT = Sun Oct 30 02:00:00 2022 CST isdst=0 gmtoff=-21600
+America/Tijuana Sun Nov 6 09:00:00 2022 UT = Sun Nov 6 01:00:00 2022 PST isdst=0 gmtoff=-28800
+
+These turn DST back on per latest IANA 2022g
+
+America/Ciudad_Juarez Sun Mar 12 09:00:00 2023 UT = Sun Mar 12 03:00:00 2023 MDT isdst=1 gmtoff=-21600
+America/Matamoros Sun Mar 12 08:00:00 2023 UT = Sun Mar 12 03:00:00 2023 CDT isdst=1 gmtoff=-18000
+America/Ojinaga Sun Mar 12 08:00:00 2023 UT = Sun Mar 12 03:00:00 2023 CDT isdst=1 gmtoff=-18000
+America/Tijuana Sun Mar 12 10:00:00 2023 UT = Sun Mar 12 03:00:00 2023 PDT isdst=1 gmtoff=-25200
+
+So here are the POSIX strings for the DST changes:
+
+America/Ciudad_Juarez 	TZ=MST7MDT,M3.2.0/02:00:00,M11.1.0/02:00:00
+America/Matamoros 		TZ=CST6CDT,M3.2.0/02:00:00,M11.1.0/02:00:00
+America/Ojinaga 		TZ=CST6CDT,M3.2.0/02:00:00,M11.1.0/02:00:00
+America/Tijuana 		TZ=PST8PDT,M3.2.0/02:00:00,M11.1.0/02:00:00
+
+I tested those DST zones:
+
+America/Ciudad_Juarez
+Sun Mar 12 03:00:00 MDT 2023
+Sun Nov 5 02:00:00 MST 2023
+America/Matamoros
+Sun Mar 12 03:00:00 CDT 2023
+Sun Nov 5 02:00:00 CST 2023
+America/Ojinaga
+Sun Mar 12 03:00:00 CDT 2023
+Sun Nov 5 02:00:00 CST 2023
+America/Tijuana
+Sun Mar 12 03:00:00 PDT 2023
+Sun Nov 5 02:00:00 PST 2023
+
+Assuming you are in GMT-6 TZ, if you want to disable DST then you would just apply the following:
+
+TZ=CST6
+
+I did local testing and here is the result:
+
+Sun Mar 12 02:00:00 CST 2023
+Sun Nov 5 02:00:00 CST 2023
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Resolved: #61112957 Reported: Severity 1 Case created or severity updated - TS012620551 for IBM i
+Acknowledged: #61130044 Reported: Severity 1 Case created or severity updated - TS012626800 for AIX
+Acknowledged: #61131504 Reported: Severity 1 Case created or severity updated - TS012627663 for IBM i
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+TS012623125 - Este caso fue liberado por Luis Ignacio Reyes el lunes 3 de abril a las 7:11 PM.
+TS012623104 - Este caso fue liberado por Luis Manuel Herrera el martes 4 de abril a las 12:16 AM.
+TS012623088 - Este caso fue liberado por Luis Manuel Herrera el martes 4 de abril a las 12:19 AM.
+TS012623062 - Este caso fue atendido por Omar Jorge Lemus el domingo 2 de abril a las 10:51 PM.
+TS012623370 - Este caso fue liberado por Luis Manuel Herrera el martes 4 de abril a las 1:55 AM.
+TS012623293 - Este caso fue liberado por Luis Manuel Herrera el martes 4 de abril a las 1:59 AM.
+TS012623266 - Luis Ignacio Reyes intentó liberar este caso el lunes 3 de abril a las 11:57 AM, pero el cliente lo abrió sin documentar el número de serie del equipo.
+TS012623241 - Este caso fue liberado por Luis Manuel Herrera el martes 4 de abril a las 2:09 AM.
+
+
+Case TS008495465
+
+
+IBM DS8880 Architecture and Implementation (Release 8.51)
+https://www.redbooks.ibm.com/abstracts/sg248323.html
+
+8.3.3 Time synchronization
+
+With the DS8880, the MC can use the NTP service. Clients can specify NTP servers on their
+internal or external network to provide the time to the MC. It is a client responsibility to ensure
+that the NTP servers are working, stable, and accurate. An IBM SSR enables the MC to use
+NTP servers (ideally at the time of the initial DS8880 installation). Changes can be made by
+the client by using the Change Date and Time action under MC Management on the MC.
+
+
+Date and Time settings
+https://ibmdocs-test.dcs.ibm.com/docs/en/ds8880/8.5.1?topic=settings-date-time
+
+Use the Date and Time tab of the System settings page to set the date and time for your storage system. You can enter the date and time manually or specify an external Network Time Protocol (NTP) server to provide the date and time.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Labor rates TLS Mexico 2023
+
+Rates SW/HW
+
+CONSERVAS LA COSTENA, S.A. DE C.V. - 0153400
+
+
+SUSE Linux Enterprise Server for SAP Applications
+signed_Conservas_La_Costena-BP-Mercantil-v2.pdf
+
+
+Tipo: Servicios
+División: Servicios Basados en Ingenrieria, Investigación y Tecnología
+Grupo: Servicios Informáticos
+Clase: Ingeniería de software o hardware
+
+Clave: 81111500 - Ingeniería de software o hardware
+
+Axel Cataldi
+Christian Ansari - Jefe de Gerardo Cabrera
+
+
+IBM Support
+https://www.ibm.com/mysupport/s/?language=en_US
+
+
+ASA Series
+145G0WE
+CU55-183
+
+146G1PC
+CU55-194
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+IBM Business Process Manager Advanced_8.5.x - Withdrawal notification
+https://www.ibm.com/support/pages/node/1193938
+
+IBM Business Process Manager Advanced
+Version: 8.5.x
+PID: 5725-C94
+
+EOS: 30-Sep-2019
+
+
+IBM Business Process Manager_8.6.x - Withdrawal notification
+https://www.ibm.com/support/pages/node/1193914
+
+IBM Business Process Manager
+Version:8.6.x
+PID: 5737-A57
+
+EOS: 30-Sep-2020
+
+Comments:
+
+Beginning October 1, 2022, support extensions will be provided on exception basis for usage and known defects
+
+
+Product maintenance strategy for IBM Business Process Manager V8.5.6, V8.5.7, and V8.6 and IBM Business Automation Workflow
+https://www.ibm.com/support/pages/product-maintenance-strategy-ibm-business-process-manager-v856-v857-and-v86-and-ibm-business-automation-workflow
+
+
+Verify Java SDK version shipped with IBM WebSphere Application Server fix packs
+https://www.ibm.com/support/pages/verify-java-sdk-version-shipped-ibm-websphere-application-server-fix-packs
+
+
+Some versions of IBM Business Process Manager (BPM) and IBM Business Monitor do not support certain Java versions running with WebSphere Application Server Network Deployment V8.5
+https://www.ibm.com/support/pages/some-versions-ibm-business-process-manager-bpm-and-ibm-business-monitor-do-not-support-certain-java-versions-running-websphere-application-server-network-deployment-v85
+
+
+
+7 R1 SR5 FP17  (7.1.5.17)
+
+
+Java SE 6, 7, and 7.1 end of service in WebSphere Application Server V8.5
+https://www.ibm.com/docs/en/was/8.5.5?topic=icyase-java-se-6-7-71-end-service-in-websphere-application-server-v85
+
+Oracle Java SE 6 and JRockit End of Support (Doc ID 2244851.1)
+https://support.oracle.com/knowledge/Middleware/2244851_1.html
+
+
+TS012676886
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+IEE Overview
+https://w3.ibm.com/w3publisher/iee-user-guide/iee-overview
+
+Internal Entitlement Engine (IEE)
+https://w3.ibm.com/#/support/article/iee?_lang=en
+
+Attention IEE Users
+https://w3.ibm.com/w3publisher/retain/news/news-items/4b8a8360-3509-11ed-98b7-0b26e1b81ac9
+
+Remote Technical Assistance Information Network (RETAIN)
+https://w3.ibm.com/#/support/article/retain/retain_iee-ep_ccms_request?_lang=en
+
+
+Solution Developer: IBM Integration Designer
+https://www.ibm.com/training/path/integrationdesigner
+
+CSDW
+https://w3.ibm.com/w3publisher/dsw-dia/our-applications/csdw
+
+
+SECCIÓN
+A8
+FILA
+X
+ASIENTO(S)
+1
+
+Orden #
+51-24433/MX2
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Libros:
+
+Extreme Ownership
+How U.S. Navy Seals Lead and Win
+Jocko Willink and Leif Babin
+
+The Motivation Myth
+Jeff Haden
+
+Libertad Financiera
+Sergio Fernández
+
+El Camino Simple a la Riqueza
+J L Collins
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+SUSE Linux Enterprise Server for SAP Applications
+
+Adrian Alanis Lucio
+
+Jazz for Service Management DASH / TIP
+
+Check JazzSM and DASH versions from the command line
+https://www.ibm.com/support/pages/check-jazzsm-and-dash-versions-command-line
+
+IBM Jazz for Service Management (JazzSM) v1.1.3 Fixpack17 (1.1.3-TIV-JazzSM-multi-FP017)
+https://www.ibm.com/support/pages/node/6844731
+
+IBM Jazz for Service Management (JazzSM) v1.1.3 Fixpack16 (1.1.3-TIV-JazzSM-multi-FP016)
+https://www.ibm.com/support/pages/node/6620239
+
+Latest fix packs for IBM Jazz for Service Management (JazzSM)
+https://www.ibm.com/support/pages/latest-fix-packs-ibm-jazz-service-management-jazzsm
+
+DASH to Success!
+https://www.ibm.com/support/pages/node/1275928
+
+End of support of Tivoli Common Reporting(TCR) service which is part of Jazz for Service Management (JazzSM)
+https://www.ibm.com/support/pages/node/6210342
+
+Is there an End of Support date for JazzSM DASH?
+https://www.ibm.com/support/pages/there-end-support-date-jazzsm-dash
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Portal de Beneficios y Facilidades México
+w3.ibm.com/w3publisher/experiencia-ibm-mexico
+
+Corporate Mobile Service Plan Account
+https://ibm.thefutureis.mobi/dashboard
+
+IBM Corporate Mobile Service Plan
+https://w3.ibm.com/w3publisher/cmsp
+
+Corporate Mobile Service Plan
+Política de Telefonía Celular - América Latina
+https://w3.ibm.com/w3publisher/cmsp-mexico-ssa
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Edgar Villanueva Juarez <edgar.villanueva.juarez@kyndryl.com>
+
+
+Preparing customer firewalls and proxies for the upcoming infrastructure changes – Call Home, Electronic Fix Distribution
+https://www.ibm.com/support/pages/node/6853429
+
+
+IBM Software Support Services - Service Extension for AIX 6.1
+https://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=897/ENUS616-004&infotype=AN&subtype=CA
+
+With IBM Software Support Services - Service Extension for AIX 6.1, you can simplify management of your AIX operating system environment while allowing additional time to upgrade or plan next steps. This service is available for POWER7® and POWER8® hardware for up to three years following End of Service (EOS). 
+
+
+Family 8204+01 IBM Power 550 Express
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/1/897/ENUS8204-_h01/index.html
+
+Type Model	Announced	Available	Marketing Withdrawn	Service Discontinued
+8204-E8A	2008-01-29	2008-02-08	2011-05-27			2019-03-31
+
+The IBM 8204 Power 550 Express deskside and 4U rack-mount server (8204-E8A) supports up to four POWER6 processor cards and 2-, 4-, 6-, and 8-core configurations. The POWER6 processors in this server are 64-bit, dual-core modules on a single processor card with 32 MB of L3 cache, and 8 MB of L2 cache, and eight DDR2 memory DIMM slots.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+NCA Kick Off - Tool Kit
+
+New Client Resource Center:
+https://w3.ibm.com/w3publisher/new-clients-resource-center
+
+Product Playbook: 
+https://w3.ibm.com/w3publisher/new-clients-resource-center/product-playbooks
+
+ISC Dashboard (Overall View): 
+https://ibmsc.lightning.force.com/analytics/dashboard/0FK3h000000dBl9GAE
+
+Seller Forecast New Client Filter (Video): 
+https://ibm.box.com/s/rv2eoha56vrdowqoff57zouwuotbmfpg
+
+Create a New Client in ISC: https://ibm.seismic.com/Link/Content/DC4TR22BR77gC8fVgpTcgF67TMc3#/?anchorId=4ba7e281-9f2a-4307-8419-47463b69698b
+
+One Pager: 
+https://ibm.box.com/s/of6y4bkuyjtiqbjgx1x8r6984kbm1ib8
+
+Be a Social Ambassador:
+https://w3.ibm.com/w3publisher/ibm-latin-america/la-comms/ibm-social-media-ambassadors
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Configuring HMC Version 7 for Call Home
+https://www.ibm.com/support/pages/configuring-hmc-version-7-call-home
+
+Configuring HMC Version 8.8.3 and Later for Call Home 
+https://www.ibm.com/support/pages/configuring-hmc-version-883-and-later-call-home
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+TS012114267
+
+061F422
+8204-E8A
+
+Family 8204+01 IBM Power 550 Express
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/1/897/ENUS8204-_h01/index.html
+
+Type Model	Announced	Available	Marketing Withdrawn	Service Discontinued
+8204-E8A	2008-01-29	2008-02-08	2011-05-27	2019-03-31
+
+The IBM 8204 Power 550 Express Server model E8A has a POWER6 processor, a clock rate of 3.5 GHz, 4.2 GHz, or 5.0 GHz, system memory of 1 GB/256 GB, internal storage of 2700 GB with 3.5-inch DASD or 1174.4 GB with 2.5-inch DASD and 5 slots, six 3.5-inch or eight 2.5-inch DASD bays, and two media bays.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Pepe (¿equipos con SWMA AIX vigente?)
+
+10C81C2
+069E94T
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+https://ec.yourlearning.ibm.com/w3/series/10346600
+https://w3.ibm.com/w3publisher/chs-reg/programa-wellbe/replay-wellbe-2023
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Matthew Kounniyom
+21 de April de 2023 at 08:32 AM
+
+Hello Eduardo,
+
+Can you paste the screen from the docx you sent in the ticket as text (not an image)?
+
+Regards,
+
+Matthew Kounniyom
+iGSC - Database
+
+
+from LUIS MIGUEL CHAVEZ VELAZQUEZ (IBM) to everyone:    12:35 PM
+ Support Line for Linux 
+from LUIS MIGUEL CHAVEZ VELAZQUEZ (IBM) to everyone:    12:36 PM
+Karel Chwistek
+
+
+Hello Support,
+
+This PMR is for Websphere 9.0.
+
+It is a Severity 1 for a Production issue for Scotia Chile, which runs in the MEXICO Datacentre, and needs attention this evening.
+
+Scotiabank Global has a Service Extension for WAS 8.5 and we've confirmed that there is a Service Extension contract negotiation underway for WAS 9.0 with Scotiabank Procurement.
+
+This email is my authorization to override and provide exception to provide Support on this call.
+
+I am the global Client Technical Leader for Scotiabank, responsible for Canada, Mexico, Latin America.
+
+
+Ms Joan Stainton
+Senior Engineer
+Senior Client Technical Leader
+Scotiabank Global – Canada, Mexico, Latin America
+IBM Canada Ltd
+1-416-659-4578
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Passport Advantage Online (PAO)
+ 
+Passport Advantage Online
+Need Assistance
+https://www-112.ibm.com/software/howtobuy/passportadvantage/homepage/ecarec
+
+eCustomer Care provides support to internal and external customers for the Distributed Software Web (DSW) applications and the Passport Advantage Program.
+
+Latin America
+Email: paonline@us.ibm.com
+
+Mexico
+0018668699138
+9:00 a.m - 5:00 p.m
+
+
+Buenos días, Fernanda:
+
+Espero que estés muy bien. Considerando que tienen un problema con la herramienta PGS (Partner Guided Selling tool), la cual es accesada a través de nuestro sitio de PAO (Passport Advantage Online), por favor, solicita apoyo para dicha herramienta a través de las siguientes opciones:
+
+Passport Advantage Online
+Need Assistance
+https://www-112.ibm.com/software/howtobuy/passportadvantage/homepage/ecarec
+
+eCustomer Care provides support to internal and external customers for the Distributed Software Web (DSW) applications and the Passport Advantage Program.
+
+Latin America
+Email: paonline@us.ibm.com
+
+Mexico
+0018668699138
+9:00 a.m - 5:00 p.m
+
+Los casos levantados a través de nuestro sitio de IBM Support, como este, deben de estar relacionados directamente con el soporte técnico a nuestros productos, tanto de software como de hardware; por lo tanto, si no tienes ningún inconveniente, procederemos a cancelar ya este caso.
+
+Agradeciéndote de antemano por tu apoyo y comprensión Fernanda, quedamos a tus órdenes para cualquier duda o comentario; cuídate mucho, seguimos en contacto.
+
+
+Saludos, Luis Herrera
+Technical Team Leader
+​​​​Senior accredited Product Services Professional - Software Support specialization
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+PGS (Partner Guided Selling tool)
+https://w3.ibm.com/w3publisher/na-saas-process-wiki/xaas-basics/pgs
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+TS012713167
+BANCO MERCANTIL DEL NORTE, S.A. INSTITUCION DE BANCA MULTIPLE
+TS012713136
+BANCO MERCANTIL DEL NORTE, S.A. INSTITUCION DE BANCA MULTIPLE
+TS012713092
+BANCO MERCANTIL DEL NORTE, S.A. INSTITUCION DE BANCA MULTIPLE
+TS012712983
+BANCO MERCANTIL DEL NORTE, S.A. INSTITUCION DE BANCA MULTIPLE
+TS012712943
+BANCO MERCANTIL DEL NORTE, S.A. INSTITUCION DE BANCA MULTIPLE
+
+
+IBM Business Automation Workflow and IBM Integration Designer Software Support Lifecycle Addendum
+https://www.ibm.com/support/pages/node/871252
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+z13/z15
+0294187
+2964-NC9/8561-T01
+KYNDRYL MEXICO S. DE R.L. DE C.V (0020912)
+
+z13/z15
+0294157
+2964-NC9/8561-T01
+KYNDRYL MEXICO S. DE R.L. DE C.V (0020912)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Security Bulletin: IBM Jazz for Service Management is vulnerable to commons-fileupload-1.4.jar (Publicly disclosed vulnerability found by Mend) (CVE-2023-24998)
+https://www.ibm.com/support/pages/node/6964530
+
+Summary
+
+IBM Jazz for Service Management is vulnerable to commons-fileupload-1.4.jar (Publicly disclosed vulnerability found by Mend). The Apache Commons FileUpload component provides a simple yet flexible means of adding support for multipar file upload functionality to servlets and web applications.
+
+Affected Product(s)				Version(s)
+Jazz for Service Management		1.1.3
+
+
+V22.0.1 - V22.0.2, V21.0.1 - V21.0.3.1, V20.0.0.1 - V20.0.0.2, V19.0.0.1 - V19.0.0.3, V18.0.0.0 - V18.0.0.1
+
+Common Vulnerabilities and Exposures
+
+V22.0.2 - V22.0.2-IF001, V22.0.1 all fixes, V21.0.3 - V21.0.3-IF017, V21.0.2 all fixes, V20.0.0.2 all fixes, V20.0.0.1 all fixes
+
+V22.0.1 - V22.0.2, V21.0.1 - V21.0.3.1, V20.0.0.1 - V20.0.0.2 , V19.0.0.1 - V19.0.0.3
+
+
+Copy Services Manager
+
+
+
+Steve Strain
+25 de April de 2023 at 01:54 AM
+
+Hi,
+
+I've been reviewing the MSD and have a few questions.
+
+What process - documentation was used to add the disks?
+
+The system is in a cluster?
+
+What happened with the cluster? It seems to have been offline/deleted?
+
+There appears to have been issues with the storage as many disks were in a disconnected state. This would greatly affect the add of disks and may be the reason it hung.
+
+Has the storage subsystem had a review of the logs for cause?
+
+Regards,
+Steve
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+https://www.ibm.com/docs/en/ibm-mq/8.0?topic=logs-error-i
+
+
+Error logs on IBM i
+https://www.ibm.com/docs/en/ibm-mq/8.0?topic=logs-error-i
+
+Error logs on IBM i
+https://www.ibm.com/docs/en/ibm-mq/9.3?topic=logs-error-i
+
+resolución de problemas con IBM MQ MQI clients
+https://www.ibm.com/docs/es/ibm-mq/8.0?topic=support-resolving-problems-mq-mqi-clients
+
+Cuando se produce un error con un sistema IBM MQ MQI client , los mensajes de error se colocan en los archivos de error del sistema IBM MQ.
+
+- En IBM i, estos archivos se encuentran en el directorio /QIBM/UserData/mqm/errors
+
+Resolución de problemas de la aplicación IBM MQ MQI client
+https://www.ibm.com/docs/es/ibm-mq/9.3?topic=troubleshooting-mq-mqi-client-application-problems
+
+Cuando se produce un error con un sistema IBM MQ MQI client , los mensajes de error se colocan en los archivos de error del sistema IBM MQ.
+
+- En IBM i, estos archivos se encuentran en el directorio /QIBM/UserData/mqm/errors
+
+Save IBM MQ data on IBM i
+https://www.ibm.com/docs/en/ibm-mq/8.0?topic=release-save-mq-data-i
+
+Save IBM MQ data on IBM i
+https://www.ibm.com/docs/en/ibm-mq/9.3?topic=i-save-mq-data
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Charbel Alwan
+
+Hi Rob, I hope you're having a great day!... Sorry for bothering you, this is Luis Herrera from TLS Mexico... It seems that you are working on case TS012962057, is it right?... The customer would like to know the current status of this case...
+Thanks a lot in advance for your kind attention!...
+
+
+Sergio Gómez Jiménez
+TalentID: 001007781
+Sergio.Gomez.J@ibm.com
+
+55 4562 6161
+55 8014 1603
+
+
+Carlos Cepeda <carlos.cepeda@ipaper.com> Cel. 8186813122
+
+Arturo Ramírez Domínguez
+Arturo.Ramirez1@ibm.com
+81-8254-6401
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+CAS - Cost Allocation System
+
+A run-time exception happened. Please contact IT for help!
+
+
+https://w3.ibm.com/careers/internal-career-mobility
+https://ibm.biz/YourCareeratIBM
+https://ibm.biz/ICarrerM
+
+
+
+Tivoli Asset Discovery for z/OS 8.1.x
+Product lifecycle
+https://www.ibm.com/support/pages/node/1251868
+
+Tivoli Asset Discovery for z/OS
+Version: 8.1.x
+EOS: 28-Feb-2023
+
+
+Cloudera and IBM
+https://www.cloudera.com/partners/solutions/ibm.html
+
+
+Vijay Kumar Kanukula <allyunixl1@dxc.com>
+
+
+PowerVM VIOS Standard Edition 2.2.x - Withdrawal notification
+Product lifecycle
+https://www.ibm.com/support/pages/node/1236910
+
+
+TS013000424
+
+Subhradeep
+
+
+Arliss King (Thomas Wu, Gregory Scott) - Cómo se manejan los casos S1 7x24 de Spectrum Fusion y ESS.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+10:12 AM Monday, May 15, 2023
+
+
+Hello Monisa,
+
+I hope this email finds you well! Unfortunatelly, VIOS 2.2 support has ended since 30-Sep-2020:
+
+PowerVM VIOS Standard Edition 2.2.x - Withdrawal notification
+Product lifecycle
+https://www.ibm.com/support/pages/node/1236910
+
+EOS: 30-Sep-2020
+
+We should cancel this case already. If you need support for VIOS 2.2, you will need get a Software Support Extension for that version.
+
+Thank you for your kind attention and understanding. Have a great weekend!
+
+
+My kindest regards, Luis Herrera
+Technical Team Leader
+Senior accredited Product Services Professional - Software Support specialization
+
+
+
+AIX Standard Edition 7.1.0
+Product lifecycle
+https://www.ibm.com/support/pages/node/1174144
+
+EOS: 30-Apr-2023
+
+
+
+This utility can be installed on any SAN Volume Controller, Storwize V7000, Storwize V5000, Flex System V7000, Storwize V3500, Storwize V3700, FlashSystem V9000, FlashSystem V840, FlashSystem 9100, FlashSystem 9200, Spectrum Virtualize for Public Cloud or Spectrum Virtualize as Software
+
+
+IBM PowerVM: Expected services when contacting IBM Support for VIOS versions that are "End of Support"
+https://www.ibm.com/support/pages/ibm-powervm-expected-services-when-contacting-ibm-support-vios-versions-are-end-support
+
+
+IBM PowerVM: Expected services when contacting IBM Support for VIOS versions that are "End of Support"
+https://www.ibm.com/support/pages/ibm-powervm-expected-services-when-contacting-ibm-support-vios-versions-are-end-support
+
+
+...cuando el sol se haya apagado y la llama de la ultima vela de la esperanza se haya extinguido; entonces, regresará a mi mente la luz de tu sonrisa para iluminar el camino de mi fe...
+
+...te soñé en un jardín lleno de flores, escoltada por elegantes alcatraces y admirada por coquetos tulipanes; rodeada de esas rosas vanidosas y de las ingenuas margaritas, lo que más recuerdo es que la flor más hermosa de ése jardín eras tú...
+
+...y casi sin darme cuenta, mi vida se empezó a inundar de luz con la magia de tu belleza y el aire que respiro se impregnó del suave perfume de tu piel; no me pude reconocer a mi mismo hasta que me vi a través de tu dulce mirada y al fin pude comprender lo que era vivir...
+
+
+Estaré fuera de la oficina del 15 al 19 de Mayo.
+
+Para temas relacionados con:
+
+Agenda cadencia PMs, FW y HC - Alejandra López
+
+Cuentas/Proyectos
+Deutsche Bank y Banco Inbursa - Yvette Pérez
+DOU IGA GDL - Sandra Flores
+DOU Korea, Stellantis - Teresa Vázquez
+Sigma alimentos, Axtel, GM Financial, OXM TECH - Mario Mendez
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+10:32 AM Tuesday, May 16, 2023
+
+
+WWSWKEYS@dk.ibm.com (Customer Support Center)
+
+Victor Oziel
+Ricardo Aviles (Scotiabank)
+
+
+16 cores
+12 cores para IBM i (4 cores restantes), desde un inicio los 16 fueron activados. Puede solicitar el SWMA para menos núcleos, pero es a buena fe.
+No se pueden desactivar los cores porque ya están activados desde un inicio.
+
+
+Red Hat Learning Subscription program
+https://w3.ibm.com/w3publisher/red-hat-tss-announcement-and-updates/how-to-order-rhls-ls220
+
+How to request Red Hat Learning Subscription (LS220) or do a Renewal (applies for both)
+(Updated Process Q4 2022)
+
+1. Identify your candidates
+
+2. Place your request on GERT for approval. Your request has to be validated and approved in order to proceed further
+
+3. Please create EPAT (The WW Expense Pre-Approval Tool) is a mandatory step used by IBM to ensure that spending is prudent and approved prior to making external commitment of funds)
+
+...
+
+
+Hello Mr Moreno,
+
+Checked further with the I/O team, you certainly hit the following APARs :
+
+IJ31191 7200-05-02-2114 "PATH FAILURES AFTER NPIV CLIENT UPDATE TO AIX 7.2 TL5 SP1" devices.vdevice.IBM.vfc-client.rte 7.2.5.3
+IJ30687 7200-05-02-2114 "VFC4_ERR19 ERROR LOGGED ON NPIV ADAPTERS AFTER UPGRADE TO 7.2.5" devices.vdevice.IBM.vfc-client.rte 7.2.5.3
+IJ31604 7200-05-03-2136 "FABRIC FORMATTED RSCN MAY CAUSE IO PATH FAILURE" devices.vdevice.IBM.vfc-client.rte 7.2.5.
+IJ30153 7200-05-02-2114 "send data transferred infor to protocol driver" devices.vdevice.IBM.vfc-client.rte 7.2.5.3
+
+I've made an efix available here for that : https://www.secure.ecurep.ibm.com/download/?id=9P6mIy9MpEdSCRTRA8x7NYLPzubibsKqPLqEOgivr1A
+
+The efix apply to your current level devices.vdevice.IBM.vfc-client.rte 7.2.5.0.
+
+After installing the efix, a reboot is needed to take effect.
+
+These APARs are fixed in service from 7200-05-03-213.
+
+Please verify after installing the fix you can read the tapes.
+
+Let us know.
+Thanks.
+Alexandre Blancke.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+from Jorge Garcia Sk (External) to everyone:    10:26 AM
+@Jesus Curiel, para apoyarlos somo Juan Ceja y Jorge Garcia para cualquier duda.
+from Jorge Garcia Sk (External) to everyone:    10:26 AM
+jcceja@fp.skandia.com.mx
+from Jorge Garcia Sk (External) to everyone:    10:26 AM
+jgarciay@fp.skandia.com.mx
+
+
+Comparto la liga del plan de pensión de la W3. https://w3.ibm.com/hr/web/mx/benefits/pension/
+
+from Jorge Garcia Sk (External) to everyone:    10:47 AM
+Dudas:
+from Jorge Garcia Sk (External) to everyone:    10:47 AM
+Juan Ceja jcceja@fp.skandia.com.mx
+from Jorge Garcia Sk (External) to everyone:    10:47 AM
+Jorge Garcia jgarciay@fp.skandia.com.mx
+from Natalia Mtz (External) to everyone:    10:47 AM
+https://bit.ly/41HvA8w
+
+Mónica de Jesús Fernández
+Monica Fernandez R
+mofernan@mx1.ibm.com 
+
+
+781020886
+8286-42A-10EDE6P
+
+Selected IBM country:   781
+Selected user country:  MX
+Selected customer:      020886
+Selected hardware:      8286-42A-10EDE6P
+
+EPXF  2   8-core 4.15 GHz POWER8 Processor Card
+EPYF  16  One Processor Core Activation for #EPXF
+
+
+Selected IBM country:   781
+Selected user country:  MX
+Selected customer:      020886
+Selected hardware:      8286-42A-10EE0BP
+
+EPXF  2   8-core 4.15 GHz POWER8 Processor Card
+EPYF  16  One Processor Core Activation for #EPXF
+
+
+Selected IBM country:   781
+Selected user country:  MX
+Selected customer:      020872
+Selected hardware:      9119-MME-103C907
+
+EPBC  2   4.19 GHz, 40-core POWER8 processor
+EPBL  80  1 core Processor Activation for #EPBC or #EHC2 or #EPBX
+
+
+Selected IBM country:   781
+Selected user country:  MX
+Selected customer:      020908
+Selected hardware:      9119-MME-06A004P
+
+EPBC  2   4.19 GHz, 40-core POWER8 processor
+EPBL  80  1 core Processor Activation for #EPBC or #EHC2 or #EPBX
+
+
+
+8110772440
+
+
+IBM Business Automation Workflow and IBM Integration Designer Software Support Lifecycle Addendum
+https://www.ibm.com/support/pages/ibm-business-automation-workflow-and-ibm-integration-designer-software-support-lifecycle-addendum
+
+
+System software map for - IBM Power S812L and PowerVM Virtual I/O Server
+https://www.ibm.com/support/pages/node/6027130
+
+
+Product lifecycle
+https://www.ibm.com/support/pages/lifecycle/
+
+PowerVM VIOS Lifecycle Information
+https://www.ibm.com/support/pages/powervm-vios-lifecycle-information
+
+
+
+Security Bulletin: This Power System update is being released to address CVE 2023-30438
+https://www.ibm.com/support/pages/node/6993021
+
+Important Information for vulnerability in PowerVM on Power9 and Power10 systems
+https://www.ibm.com/support/pages/node/6987797
+
+
+Equipo de respuesta a incidentes de seguridad de productos de IBM (IBM PSIRT - IBM Product Security Incident Response Team)
+
+Product Security Incident Response PSIRT information
+https://www.ibm.com/support/pages/product-security-incident-response-psirt-information
+
+IBM Security Vulnerability Management
+https://www.ibm.com/support/pages/ibm-security-vulnerability-management
+
+
+Fix Central
+https://www.ibm.com/support/fixcentral
+
+
+Unable to access SSP Dashboard
+https://www.ibm.com/support/pages/unable-access-ssp-dashboard
+
+Sterling Secure Proxy
+
+
+Account Name
+GM FINANCIAL DE MEXICO S.A. DE C.V. SOFOM E.R.
+Account CMR Number
+0964972
+
+219AF9W
+Vijay Kumar Kanukula
+
+
+
+JORGE CRUZ ESTRADA
+19 de May de 2023 at 11:02 AM
+
+IBM Support is reviewing the case. Future updates will be viewable here. For additional help using our site, refer to the “Documentation” drop down found at the top of the Support site. https://www.ibm.com/mysupport
+
+JORGE CRUZ ESTRADA
+19 de May de 2023 at 11:14 AM
+
+Hello Vijay,
+
+Please collect and send a snap file from server 8284-22A SN 219AF9W for review. Please follow steps at https://www.ibm.com/support/pages/node/1073470 to do this.
+
+Please advise if you have any questions or need assistance with this.
+
+Thank you for using IBM!
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Ernesto Ramirez <eramirez@dafros.com>
+
+Cliente: Caja de Prevision y Ahorros del S.N.T.S.S
+Número de Cliente de IBM: 968028
+
+
+Scontinuidad Latam, S.A. de C.V., bajo la marca “Atalait” (Atalait), con domicilio en Mario Pani 400, Piso 12, Colonia Lomas de Santa Fe, Cuajimalpa de Morelos, Ciudad de México, código postal 05348.
+
+
+AIX support lifecycle information
+https://www.ibm.com/support/pages/aix-support-lifecycle-information
+
+Product lifecycle
+AIX Standard Edition 7.1.0
+https://www.ibm.com/support/pages/node/1174144
+
+EOS: 30-Apr-2023
+
+Software withdrawal and support discontinuance: IBM AIX 7.1 Standard edition, IBM AIX 7.1 Enterprise editions 1.5, and IBM AIX Dynamic System Optimizer 1.1
+https://www.ibm.com/downloads/cas/US-ENUS921-107-CA/name/US-ENUS921-107-CA.PDF
+
+
+Software withdrawal and support discontinuance: IBM AIX 7.1 Standard edition, IBM AIX 7.1 Enterprise editions 1.5, and IBM AIX Dynamic System Optimizer 1.1
+https://www.ibm.com/common/ssi/cgi-bin/ssialias?subtype=ca&infotype=an&appname=iSource&supplier=897&letternum=ENUS921-107
+
+
+End of Support Overview
+https://www.ibm.com/software/passportadvantage/endofsupport_ov.html
+
+
+INTERNATIONAL PAPER MEXICO COMPANY S DE RL DE CV.
+Power System S814 Server
+8286-41A
+211AF0W
+
+
+Mitigating CVE-2017-5715, CVE-2017-5753 and CVE-2017-5754 in PureApplication System W1700, W2700, and W3700
+https://www.ibm.com/support/pages/mitigating-cve-2017-5715-cve-2017-5753-and-cve-2017-5754-pureapplication-system-w1700-w2700-and-w3700
+
+
+Serial Number: 7802429, Type-Model: 3959-SM2
+
+Family 3959+02 IBM System Storage TS7620 ProtecTIER Appliance Model
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/2/649/ENUS3959-_h02/index.html
+
+
+Type Model	Announced	Available	Marketing Withdrawn	Service Discontinued
+3959-SM2	2012/06/04	2012/06/08	2018/05/19	2020/11/30
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+TS013075377
+
+Subject
+
+Upgrade Firmware SAN switch
+
+Description
+
+buen dia Team IBM, me pueden apoyar para validar a que version tengo su subir mi firmware asi como las versiones a las que tendria que ir actualziado para llegar al vaerison optima recomendada por ustedes
+tengo 2 switch con la misma version de FOS y necesito subirlo a la version recomendada,
+SANalta:FID128:admin> version
+Kernel: 2.6.34.6
+Fabric OS: v8.2.1a
+Made on: Mon Oct 15 20:18:02
+
+
+TS013075310
+
+Subject
+
+Firmware switch FC
+
+Description
+
+hola Team IBM
+me podrian apoyar para poderme proporcionar la version correcta del FOS del SAN switch "SAN24B-6", actualmente tendo la version 8.2.0a y necesito saber cual es la version a la que se tiene que subir.
+
+SANQroAlta:admin> version
+Kernel: 2.6.34.6
+Fabric OS: v8.2.0a
+
+
+
+Account Name
+AXTEL, S.A.B. DE C.V.
+Account CMR Number
+0967586
+
+Juan Axtel
+storage_ti@axtel.com.mx
+
+Machine Serial Number
+780716M
+
+Product
+SAN b-type Collection
+
+	
+Juan Antonio Vega Estrella
+Especialista de Almacenamiento
+jvega@alestra.com.mx
++52 5541305854
+
+
+Finalmente podrá ver las versiones de FOS disponibles para el equipo y seleccionar la deseada.
+----------------------------------------------------------------------------------------------
+
+
+Hi team,
+
+I hope this message finds all of you well. Our client wants to update their switch, so he opened the case TS013075310, where our LA Storwize SE (Javier Gutierrez) sent him the following information about it:
+
+----------------------------------------------------------------------------------------------
+
+The FOS (Fabric Operating System) for the switch 8960-F24 (SAN24B-6) can be downloaded from IBM Fix Central:
+https://www.ibm.com/support/fixcentral
+https://www.ibm.com/support/fixcentral/options?selectionBean.selectedTab=find&selection=System+Storage%3bStorage+area+network+(SAN)%3bSAN+b-type
+
+In the option of Installed version, select ALL.
+In the next window, check the box.
+SAN_Storage_Networking_b_type_firmware
+Link to all firmware
+If you don't have an user, selecct the option CREATE AN IBMID.
+If you already have an user, use it to enter.
+In the next window, enter the serial number of your switch.
+In the next window, select Link To Broadcom SW Portal, and then CONTINUE.
+Enter your work email.
+An ACTIVATION CODE is sent to your email, use it to access the portal.
+Finally, you will see the available FOS versions for your switch:
+v9.1.1b_G6_ENTRY
+v9.1.1a_G6_ENTRY
+v9.1.0b_G6_ENTRY
+v9.0.1e1_G6_ENTRY
+v9.0.1d_G6_ENTRY
+v9.0.1c_G6_ENTRY
+v8.2.3c1_G6_ENTRY
+v8.2.3b_G6_ENTRY
+
+IBM always suggests to keep updated the FOS version to the latest available, however, if the switch is used in a Storage environment, the system admin should verify the interoperability of the components through the IBM System Storage Interoperation Center (SSIC):
+https://www-50.ibm.com/systems/support/storage/ssic/interoperability
+
+----------------------------------------------------------------------------------------------
+
+Now, the client has some problems to understand how to use the SSIC and how to get an interoperability matrix. Mainly, he wants to know what FOS version they should update to, without having problems in their system. For example, can they update to the v9.1.1b_G6_ENTRY version? If they can't or they shouldn't, they want to know the reason and what exact version they should update to.
+
+Could you be so kind to help the client? Thanks a lot in advance for your kind help and attention! I remain at your disposal for any questions or comments.
+
+
+My best regards, Luis Herrera
+Technical Team Leader
+​​​​​​​Senior accredited Product Services Professional - Software Support specialization
+
+
+
+PowerVM VIOS Lifecycle Information
+https://www.ibm.com/support/pages/powervm-vios-lifecycle-information
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+781000281
+9040-MR9-78DD2DX
+
+
+EL PALACIO DE HIERRO, S.A. DE C.V.
+0000281
+
+EL PALACIO DE HIERRO, S.A. DE C.V.
+0963510
+
+
+¿Te gustaría practicar el rol de TECHNICAL ADVISOR?  :nerd_face::abelhaibm:
+¡En la certificación de “IBM Cloud Advocate v2 (C1000-142)” puedes poner en práctica este rol! :celebrate-4800:
+Para más información, contactar  a :point_right:  
+@laura.galvan
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+from LUZ ESTIBALIZ FERNANDEZ MAGALLON (IBM) to everyone:    12:06 PM
+https://w3.ibm.com/w3publisher/innovative-technology-cloud-squad/certificaciones-cloud-2023/programs-team
+from Ivan Herrera Perez (IBM) to everyone:    12:06 PM
+https://connect.redhat.com
+
+
+from Erick Brandon Arenas Molina (IBM) to everyone:    2:14 PM
+https://w3.ibm.com/w3publisher/innovative-technology-cloud-squad/certificaciones-cloud-2023/programs-team
+from Maria Fernanda Lepe Saldaña (IBM) to everyone:    2:16 PM
+¡Buena tardes!
+Les comparte los links del Publisher;
+Página principal: https://w3.ibm.com/w3publisher/innovative-technology-cloud-squad/certificaciones-cloud-2023
+Página certificaciones: https://w3.ibm.com/w3publisher/innovative-technology-cloud-squad/certificaciones-cloud-2023/programs-team
+
+
+linux.herrera@gmail.com
+Dulce23Ale
+
+lherrera@mx1.ibm.com
+Alejandra23Fernanda
+Username:	Watson50
+
+
+LEGO
+linux.herrera@gmail.com
+Dulce23Ale
+
+
+IBM System Storage ProtecTIER Entry Edition 3.4.0 - Withdrawal notification
+https://www.ibm.com/support/pages/node/1216270
+
+EOS: 30-Nov-2020
+
+System Storage ProtecTIER Appliance Edition 3.3.0 - Withdrawal notification
+https://www.ibm.com/support/pages/node/1250278
+
+EOS: 30-Nov-2020 
+
+Software withdrawal and support discontinuance: IBM ProtecTIER V3.3 and V3.4
+https://www.ibm.com/common/ssi/cgi-bin/ssialias?subtype=ca&infotype=an&appname=iSource&supplier=897&letternum=ENUS919-109
+
+Withdrawal from support date:  November 30, 2020
+
+
+para este equipo (Serial Number: 7802429, Type/Model: 3959-SM2), tanto de hardware como de software, se encuentran ya expirados
+
+
+
+Código: invierte (FINAMEX)
+
+
+ELIAS ADRIEL DEL VALLE VALENZUELA
+Elias Adriel Del Valle Valenzuela <evalle@kyndryl.com>
+
+
+Red Hat Learning Subscription Standard (LS220)
+
+
+S&D LA Expenses Aproval
+
+
+Page 1:
+
+Red Hat Learning Subscription Standard
+
+
+Page 2:
+
+Red Hat Learning Subscription Standard
+Red Hat Linux skills are critical for all the IBM technical team.
+TLS clients are increasingly asking us for Red Hat services, we need qualified local resources.
+No
+No
+
+
+
+
+Red Hat Learning Subscription program
+TLS
+https://w3.ibm.com/w3publisher/red-hat-tss-announcement-and-updates/how-to-order-rhls-ls220
+
+
+
+
+Hi Vijay,
+
+Thank you for the information, reviewing the information I don't see any hardware issue on the system, resource mention is part of a raid0 array.
+
+You request is to send an FE to add disk's on your system? If yes then I will send your case to validation to review your request.
+
+
+Hello,
+
+Our request is to add new SAS RAID disks to the VIO server in the DC. We need the IBM FE along with the disk to come to the site and add disk to the VIO server.
+
+Regards,
+
+Monisa
+
+
+Cognitive HW RTS Technical Support Professional
+
+the client claims that this is a Hardware Defect/BreakFix issue
+
+
+
+En los casos, si dice Field Serviceable Yes o No, depende si es de software o de hardware.
+
+
+O01368
+from Nicola Mistretta (IBM) to everyone:    4:29 PM
+Serial numbers 782DD68 & 782DD58 
+from LUIS MANUEL HERRERA JIMENEZ (IBM) to everyone:    4:37 PM
+IBM Entitled Systems Support
+from LUIS MANUEL HERRERA JIMENEZ (IBM) to everyone:    4:37 PM
+IBM Entitled Systems Support
+https://www.ibm.com/servers/eserver/ess/landing/index.html
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Account Name
+CERVECERIA MODELO DE MEXICO S DE RL DE CV
+CMR Number
+0013390
+963625
+
+
+Sales Order: 4100727307
+
+
+781013390 (CERVECERIA MODELO DE MEXICO)
+
+9848-AF8-78E0275 (FlashSystem)
+8978-E04-78C034E (SAN switch)
+8978-E04-78C035E (SAN switch)
+7998-60X-06B076A (BladeCenter)
+
+
+Type/Model: 9848-AF8
+Serial Number: 78E0275
+
+Family 9848+03 IBM FlashSystem 9100
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/3/877/ENUS9848-_h03/index.html&request_locale=en
+
+Model abstract 9848-AF8
+
+The IBM 9848 FlashSystem 9150 SFF NVMe Control Enclosure Model AF8 is a three-year warranty machine and features two node canisters and up to 1.5 TB cache (system total) in a 2U, 19-inch rack mount enclosure. 10 Gb iSCSI connectivity is standard, with options for 16 Gb FC and 25 Gb iSCSI connectivity. It holds up to twenty-four 2.5-inch NVMe FlashCore Modules or industry-standard flash drives and supports the attachment of up to 20 FlashSystem 9100 expansion enclosures.
+
+Type/Model: 8978-E04
+Serial Number: 78C034E
+Serial Number: 78C035E
+
+Family 8978+01 IBM Storage Networking SAN192C-6
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/1/872/ENUS8978-_h01/index.html&request_locale=en
+
+Model abstract 8978-E04
+
+IBM Storage Networking SAN192C-6 addresses the stringent requirements of large virtualized data center storage environments. It delivers uncompromising availability, security, scalability, ease of management, and transparent integration of new technologies for extremely flexible data center SAN solutions. It shares the same operating system and management interface with other IBM Storage Networking c-type data center switches and directors. SAN192C-6 lets you transparently deploy unified fabrics with Fibre Channel connectivity for low total cost of ownership (TCO).
+
+Type/Model: 7998-60X
+Serial Number: 06B076A
+
+IBM BladeCenter JS12 Express server combines excellent processing power with the scalability, reliability, and configuration flexibility of IBM BladeCenter architecture
+https://www.ibm.com/common/ssi/cgi-bin/ssialias?infotype=AN&subtype=CA&htmlfid=897/ENUS108-233
+
+POWER6 processor-based BladeCenter JS12 Express
+
+The IBM BladeCenter JS12 Express is the latest high-density blade server with POWER6 technology with EnergyScale technology. The JS12 is a single-wide, two-core, 1-socket with two cores per socket, 3.8 GHz POWER6 SCM processor. Each processor is directly mounted to the planar board and includes 64 KB I-cache and 64 KB D-cache L1 cache per core with 4 MB L2 cache per core. The integrated memory controller supports eight pluggable registered DIMMs, which must be installed in pairs. The minimum memory that can be installed is 2 GB (2 X 1 GB) and the maximum is 64 GB (4 x 16 GB). The JS12 supports Memory Scrubbing, ECC, Chipkill™, and Bit Steering.
+
+
+IBM Spectrum Protect Plus Multi-Cloud starter for FlashSystem
+PID: 5639-MC4
+
+IBM Spectrum Copy Data Management Multi-Cloud starter for FlashSystem
+PID: 5639-MC5
+
+IBM Spectrum Virtualize for Public Cloud Multi-Cloud starter for FlashSystem
+PID: 5639-MC6
+
+
+
+
+FAQ
+https://www.ibm.com/docs/en/power-systems-vs?topic=help-faq
+
+
+Does IBM provide maintenance for the AIX, IBM i or Linux operating systems?
+https://www.ibm.com/docs/en/power-systems-vs?topic=help-faq#licensing-os
+
+No. It is the customer's responsibility to maintain, update, and manage the AIX, IBM i or Linux operating system.
+
+
+How does licensing work for the AIX, IBM i, or Linux operating systems?
+https://www.ibm.com/docs/en/power-systems-vs?topic=help-faq#os-support
+
+The license for the AIX and IBM i operating systems is part of the overall cost for the workspace. You cannot use an existing license that you already purchased. Power Systems Virtual Server does not provide Linux stock images. You must bring your own Linux image (OVA format) and subscription. RHEL and SLES OVA images are currently supported.
+
+You can use the movable IBM i (IBM i MOL) to move your existing on premises entitlements to Power Systems Virtual Server. Contact support to know more about the IBM i MOL, see Getting help and support.
+
+
+
+So here’s a command to find the serial number of frame your LPAR is sitting on:
+
+lsattr -El sys0 -a systemid
+
+$ lsattr -El sys0 -a systemid
+systemid IBM,00000XXXXX Hardware system identifier False
+
+To format this to the normal XX-XXXXX version, use something like this in a script:
+
+SERIAL=$(lsattr -El sys0 -a systemid |cut -d"," -f2 | awk '{print $1}')
+PREFIX=$(echo ${SERIAL} |cut -c3-4)
+SUFFIX=$(echo ${SERIAL} |cut -c5-9)
+
+S_NUMBER=$(echo ${PREFIX}-${SUFFIX})
+
+Now you have the $S_NUMBER variable with the properly formatted Serial Number
+
+
+CLOUD_root@weccp01:root/# lsattr -El sys0 -a systemid
+systemid IBM,0678B82E0 Hardware system identifier False
+
+CLOUD_root@weccp00:root/# lsattr -El sys0 -a systemid
+systemid IBM,021301B78 Hardware system identifier False
+
+78B82E0
+1301B78
+
+Customer (IBM CORP) 8924601306
+9009-22A-78B82E0
+
+Customer (IBM CORP) 8924601987
+9080-M9S-1301B78
+
+
+D06QSZX IBM Power Virtual Server Subscription for IBM Cloud 1 US Dollar per Month
+D1U5GLL IBM Cloud Premium Support 1 US Dollar per Month
+05-Abr-2023 - 04-Abr-2025
+
+
+Ahmed Adel Fahmy Hassan
+
+
+CMR number (ICN): 013390
+Account ID (Softlayer ID): 2271389
+Bluemix account ID: 375341fb462c4ac8a922bb56e21fcec2
+
+
+Anil Kalavakolanu
+AIX Development Support Organization
+
+ESS only works for on-prem systems and is tied to serial number. They provide ISO images and these are already available on PowerVS when they want to deploy a new VM. There are no serial numbers for PowerVS. AIX/IBM i have SWMA for VMs on PowerVS. If they want to download fixes for IBM i, this is the doc that needs to be followed:
+
+Downloading fixes and updates
+https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-downloading-fixes-updates
+
+ISO images have export/import regulations that need to be considered and all of them are based on billing address and location of the machine which is more on-prem. That’s why PowerVS provides ISO images for customers to deploy and then use FixCentral to download Service & Fix Packs.
+
+
+Using Entitled Software Support (ESS) to download ISO images
+https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-using-ess-iso
+
+Entitled software means that the software is covered by a valid Software Maintenance Agreement (SWMA). If you obtain software maintenance by using a custom SWMA contract (as opposed to a standard SWMA), you might need to register on the Entitled Software Support (ESS) website to access the custom SWMA contract. Without access to the customer SWMA contract, you might not be able to download ISO images. You cannot download all levels of entitled software. For example, you cannot download installation media for AIX technology levels that are outdated.
+
+
+Jayen Shah
+Product Manager - IBM Power - AIX, Worldwide
+Infrastructure
+
+Terry Thomas
+Director, Product Management - Power Systems Virtual Server
+Infrastructure
+
+Wagner Dos-Santos
+Technical Account Manager
+Infrastructure
+
+Evangelina Fernandez Rendon
+IBM Public Cloud Senior Sales Specialist, Cross Industry, Global Markets LA
+Global Sales - Cloud Platform Sales
+
+Leobardo Morales Tiburcio
+Customer Success Manager Architect: Public Cloud, Mexico
+Global Sales - Customer Success Management
+
+
+from Terry Thomas (IBM) to everyone:    11:21 AM
+https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-using-ess-iso
+from Jayen Shah (IBM) to everyone:    11:22 AM
+Client ID - 781013390
+from EVANGELINA FERNANDEZ RENDON (IBM) to everyone:    11:22 AM
+sergio.castroa@ab-inbev.com
+from WAGNER DOS-SANTOS (IBM) to everyone:    11:24 AM
+for Pepe, Username is IBM2271389 
+from EVANGELINA FERNANDEZ RENDON (IBM) to everyone:    11:24 AM
+Jose.Penaloza@ab-inbev.com
+from LEOBARDO MORALES TIBURCIO (IBM) to everyone:    11:26 AM
+2271389 is the cloud portal number
+from WAGNER DOS-SANTOS (IBM) to everyone:    11:28 AM
+The Case TS01356005 -  Opened on May 17th
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+781020908 (KYNDRYL MEXICO)
+9080-M9S-782DD58
+9080-M9S-782DD68
+
+
+KYNDRYL MEXICO S. DE R.L. DE C.V SCOTIABANK
+0020908
+
+SCOTIABANK INVERLAT
+0990146
+
+
+Serial number 782DD58 Processor group P30. OS V73M0.
+
+Product    Version    Feature    PrcGrp     Limit
+5770BR1    V7R3M0     5050       P30        *NOMAX
+5770BR1    V7R3M0     5102       P30        *NOMAX
+5770BR1    V7R3M0     5102       P30        *NOMAX
+5770JS1    V7R2M0     5050       P30 
+5770QU1    V7R3M0     5050       *ANY       *NOMAX
+5770SS1    V7R3M0     5103       *ANY       *NOMAX
+5770SS1    V7R3M0     5117       P30        *NOMAX
+5770ST1    V7R3M0     5050       P30        *NOMAX
+5770WDS    V7R3M0     5101       P30        250
+5770WDS    V7R3M0     5102       P30        250
+5770WDS    V7R3M0     5103       P30        250
+5770XW1    V7R3M0     5050       P30        *NOMAX
+5770XW1    V7R3M0     5101       P30        *NOMAX 
+
+
+Product    Version    Feature    PrcGrp     Limit
+5770BR1    V7R3M0     5050       P30        *NOMAX
+5770BR1    V7R3M0     5102       P30        *NOMAX
+5770BR1    V7R3M0     5102       P30        *NOMAX
+5770QU1    V7R3M0     5050       *ANY       *NOMAX
+5770SS1    V7R3M0     5103       *ANY       *NOMAX
+5770SS1    V7R3M0     5117       P30        *NOMAX
+5770ST1    V7R3M0     5050       P30        *NOMAX
+5770WDS    V7R3M0     5101       P30        250
+5770WDS    V7R3M0     5102       P30        250
+5770WDS    V7R3M0     5103       P30        250
+5770XW1    V7R3M0     5050       P30        *NOMAX
+5770XW1    V7R3M0     5101       P30        *NOMAX 
+
+
+781053200 (BANCO NACIONAL DEL EJERCITO,)
+911921E7AD7
+9119-MME-21E7AD7
+
+
+781441000 (HOUSE OF FULLER, S. DE R.L. DE C.V.)
+8202-E4D-10A57FT
+
+
+Db2 Web Query for i Express Edition_2.3.0
+https://www.ibm.com/support/pages/db2-web-query-i-express-edition230
+
+Db2 Web Query for i Express Edition
+Version: 2.3.0
+PID: 5733-WQE
+
+
+Software Maintenance for IBM i
+https://www.ibm.com/support/pages/node/687901
+
+
+Advanced Job Scheduler
+https://www.ibm.com/docs/en/i/7.4?topic=options-advanced-job-scheduler
+
+IBM Advanced Job Scheduler for i
+https://www.ibm.com/support/pages/ibm-advanced-job-scheduler-i
+
+This Licensed Program Product (5770-JS1) facilitates your unattended operations, which can reduce your cost of ownership, and helps improve efficiency and accuracy in managing your batch applications.
+
+
+KYNDRYL MEXICO S. DE R.L. DE C.V SCOTIABANK
+781020872
+9119-MME-103C907
+
+
+5722WE2Web Enablement for i5/OS
+5733CY3Cryptographic Device Manager
+5733WE3Web Enablement for i
+5733WQXIBM Db2 Web Query for i
+5733XT2XML Toolkit for IBM System i5
+5761CM1Communications Utilities for System i
+5770BR1Backup Recovery and Media Services for i
+5770HASPowerHA SystemMirror for i
+5770JS1Advanced Job Scheduler for i
+5770PT1Performance Tools for i
+5770QU1Query for i
+5770SS1IBM i
+5770ST1DB2 Query Manager and SQL Development Kit for i
+5770WDSRational Development Studio for i
+5770XW1IBM i Access Family
+
+
+
+KYNDRYL MEXICO S. DE R.L. DE C.V SCOTIABANK LATAM
+020886
+10E6F4T
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+IBM i Licensing, Part 1: Operating System Subscriptions
+https://www.itjungle.com/2022/06/06/ibm-i-licensing-part-1-operating-system-subscriptions/
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+AI Playlist Generator
+https://www.taskade.com/generate/tools/playlist
+
+Discover the perfect sound for every moment of your life with the AI-powered playlist generator. Elevate your listening experience and create the ultimate soundtrack, effortlessly.
+
+Mood-Based Playlist Generator
+
+
+The Perfect AI Playlist Generator
+https://playlistable.io/
+
+Revolutionize the way you discover and enjoy music with our AI playlist generator. Discover new artists, rediscover old favorites, and create playlists that are uniquely you.
+
+Start with 2 free AI playlists
+Curated selection of songs based on your preferences
+Powered by ChatGPT
+
+What types of moods can I use to generate a playlist?
+
+Our playlist generator allows users to input their own mood prompt, so the range of moods is unlimited. Examples: Energetic pop for a workout - Chill indie for a rainy day - Driving down the road on a hot summer evening with the windows down - Sad songs for a breakup - Happy songs for a party, etc.
+
+
+AI Music Playlist Generator
+https://uppbeat.io/ai-playlist-generator
+
+Find the perfect tracks in seconds with our new text-to-music playlist generator. Ask for absolutely anything and our AI will produce a totally tailored playlist of copyright-free tracks for your content. Talk about gamechanger!
+
+Understands complex descriptions and provides relevant music recommendations.
+Able to translate abstract concepts into suitable music.
+AI generated playlists are ordered with the most suitable music first.
+
+
+The best Bluetooth trackers you can buy
+https://www.zdnet.com/article/best-bluetooth-tracker/
+
+
+LexisNexis TotalPatent One
+https://www.lexisnexisip.com/solutions/patent-search/
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+from ETHEL HERNANDEZ MARTINEZ (IBM) to everyone:    10:29 AM
+https://yourlearning.ibm.com/activity/PLAN-3676D3297161
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Banco Bx+
+
+
+Power System S812L Server 8247-21L
+
+System software map for - IBM Power S812L and PowerVM Virtual I/O Server
+https://www.ibm.com/support/pages/node/6027130
+
+PowerVM VIOS Lifecycle Information
+https://www.ibm.com/support/pages/powervm-vios-lifecycle-information
+
+Product lifecycle
+Your search for “VIOS Standard Edition” returned 3 results.
+https://www.ibm.com/support/pages/lifecycle/search/?q=VIOS%20Standard%20Edition
+
+
+Family 8247+02 IBM Power System S812L server
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/2/760/ENUS8247-_h02/index.html
+
+Type Model	Announced	Available	Marketing Withdrawn	Service Discontinued
+8247-21L	2014-04-28	2014-08-29	2019-05-31			2024-03-31
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2.- Buscar a tu coach: Una vez que tengan la idea y la tecnología que están atacando, pueden comenzar su búsqueda.
+ Ingresa a los canales mencionados y poner el comentario: Hello, we are a part of an AoT initiative called B-Inventor, and we are looking for a coach to help us with our patent centered on "X” technology. By helping us, you will be a part of the AoT initiative as well as our team.
+COACHES: (CANALES):
+INVENTING AT IBM - Inventing @ IBM
+- #inventions
+#inventores-mx
+IBM Master Inventors
+#inventors
+- #find-a-patent-mentor
+ 
+
+Hello, we are a part of an AoT initiative cal led B-Inventor, and we are looking for a coach to help us with our patent centered on Containers technology (Conditional Assisted YAML File Generation). By helping us, you will be a part of the AoT initiative as well as our team.
+
+
+from LUCIO LEGASPI VILLASENOR (IBM) to everyone:    10:09 AM
+Venir preparados a las reuniones.
+Ingresar a tiempo a la sesión.
+En caso de no poder asistir a la sesión, revisar la grabación.
+Los presentadores tener su cámara encendida todo el tiempo.
+Todos tienen la misma voz y una valiosa contribución.
+Si se les asigna un tema, tomen posesión y manténgalo actualizado.
+Subir el archivo de su presentación 2 días antes de la sesión.
+enviar sus preguntas con tiempo para revisión de las mismas.
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+KYNDRYL MEXICO S. DE R.L. DE C.V SCOTIABANK LATAM
+0020886
+781020886
+
+
+8286-42A
+POWER8
+10EDE6P
+
+
+5663-HAE - SWMA for PowerHA Enterprise Edition
+5663-HAM - SWMA for PowerHA Standard Edition
+
+IBM PowerHA SystemMirror for i Enterprise Edition 3Yr SW Maintenance Renewal (5663-HAE)
+IBM PowerHA SystemMirror for i Standard Edition 3Yr SW Maintenance Renewal (5663-HAM)
+
+(1) PowerHA for i has Express, Standard, and Enterprise Edition. The 566x-HEE SWMA is for the Express Edition. The 566x-HAM SWMA is for the Standard Edition and the 566x-HAE SWMA is for the Enterprise Edition.
+
+
+Proof of Entitlements (ePoEs) based on the customer numbers you have authorization for. The ePoEs represent an active and installed license component for licensed products which are enabled for ePoE support.
+
+
+KYNDRYL MEXICO S. DE R.L. DE C.V SCOTIABANK
+0020872
+781020872
+9119-MME-103C907
+
+
+Key_report_for_customer_781020872_103C907.xlsx
+Key_for_781020872_103C907
+
+Proof_of_Entitlements_active_for_customer_781020872_103C907.xlsx
+ePoE_active_781020872_103C907
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Alexandre Baez
+7 de June de 2023 at 03:01 PM
+
+Hello Arturo !
+
+Unfortunatelly the ifxcollect has not completed, when I was uncompressing it showed it is broken.
+
+I checked also our first repository and it is missing to complete the second part of collection and there not the third iteration as well.
+
+Would you mind running again when you see the issue happening and send it along the online.log that comprised the periodo of collection.
+
+I also see there is a secondary node, so please run the same collection at the same time in secondary node as well.
+
+Best regards,
+Alex
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Reiniciaron consolas y el problema persistió.
+
+Luis Fernando Velázquez
+
+
+Hashem Youssef Abdelsalam Saad
+12 de June de 2023 at 04:49 AM
+
+Hi Luis,
+
+Thanks for the time at the meeting and I hope you are satisfied with the service we provided to you on this case .
+
+In summary, we found the lpars not activating with error HSCL068A advising that LHEA port cannot be assigned to logical partition because it is not the promiscuous lpar.
+
+We checked the lpar profiles and the managed system hardware virtualized IO and we found all the active ports are owned by the lpar with ID#1, to resolve this we went to the classic GUI and we took note of the LHEA ports assigned to the lpars in question.
+
+Next, we went to the managed system view (without selecting any lpar) and selected Hardware Information, Adapters, Ethernet, selected the port, clicked on configure, we found the Promiscuous lpar setting is set to the lpar with ID#1 so we changed it to None and clicked ok.
+
+Now, the lpar that we changed the port settings for activated fine without errors, so we changed the rest of the ports similarly and all lpars were activated and running.
+
+----------------------------
+
+After, so we found the lpar with ID#3 hanging during boot while scanning the fibrechannel adapters ports, we shutdown the partition and tried to boot it to SMS and OpenFW prompt but we got stuck at the same point on the fibrechannel ports scan as follows:
+
+!!! LPe11002 Fcode, Copyright (C) 2000-2008 Emulex !!! Version 3.10a3
+scan/pci@800000020000131/fibre-channe1@0,1CannotInitLink.
+scan/pci@800000020000132/fibre-channe1@0,1Cannot Init Link.
+scan/pci@800000020000135/fibre-channe1@0
+!!! 00E0806 Fcode, Copyright (c) 2000-2008 Emulex !!! Version 3.10a3
+***here we shut down the lpar and tried to boot to openFW prompt***
+!!! 00E0806 Fcode, Copyright (c) 2000-2008 Emulex !!! Version 3.10a3
+!!! 00E0806 Feode, Copyright (c) 2000-2008 Emulex !!! Version 3.10a3
+!!! 00E0806 Fcode, Copyright (c) 2000-2008 Emulex !!! Version 3.10a3
+!!! 00E0806 Fcode, Copyright (c) 2000-2008 Emulex !!! Version 3.10a3
+!!! LPe11002 Fcode, Copyright (C) 2000-2008 Emulex !!! Version 3.10a3
+scan/pci@800000020000131/fibre-channe1@0,1CannotInitLink.
+scan/pci@800000020000132/fibre-channe1@0,1Cannot Init Link.
+
+To fix that, we removed all the fibrechannel adapters from the lpar profile which allowed the boot from the internal SAS drives to complete, after the lpar completely booted up, we dynamically added the same fibrechannel adapters back to the lpar and ran cfgmgr to configure them along with the connected SAN disks, then the productions apps were successfully started.
+
+I would recommend at this point to have the HW support check the physical fibrechannel adapters assigned to that lpar with ID#3 and verify if one of them needs replacement or maybe just needs microcode/firmware update which also goes under HW support scope.
+
+As pointed out, I will proceed with closing the case here and if you got any new problems we can have a new dedicated case opened for better problems isolation and prompt resolution.
+
+Thank you for using IBM.
+
+Sincerely,
+Hashem Y. Saad
+Technical Support Professional
+IBM Software support center,TLS.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+System software map for - IBM Power 770 (9117-MMB) and AIX - 3.1 GHz
+https://www.ibm.com/support/pages/node/6022804
+
+AIX 7.2
+Technology Level 	Base Level 			Recommended Level 	Latest Level
+7200-05 			7200-05-00-2037 	7200-05-00-2037 	7200-05-06-2320
+
+System software map for - IBM Power 770 (9117-MMB) and AIX - 3.5 GHz
+https://www.ibm.com/support/pages/node/6022810
+
+AIX 7.2
+Technology Level 	Base Level 			Recommended Level 	Latest Level
+7200-05 			7200-05-00-2037 	7200-05-00-2037 	7200-05-06-2320
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+RADIOMOVIL DIPSA, S.A. DE C.V.
+0964241
+106305P
+
+
+AIX Standard Edition 6.1.0 - Withdrawal notification
+https://www.ibm.com/support/pages/node/1174138
+
+EOS: 30-Apr-2017
+
+Lifecycle policy Enhanced (E): minimum 5 years support with extension of 3 years
+
+
+Family 9117+03 IBM Power 770 Server MMB
+https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/3/872/ENUS9117-_h03/index.html
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+KYNDRYL MEXICO S. DE R.L. DE C.V TELMEX
+781020948 (KYNDRYL MEXICO)
+0020948
+781020948
+9080-M9S-784CB38
+9080-M9S-784CB08
+
+Site ID: S049476484
+
+Name: KYNDRYL MEXICO
+Customer: 781020948
+Site ID: S049476484
+
+
+Rodney Billups <Rodney.Billups@ibm.com>
+Puneet Oberoi <Puneet.Oberoi@kyndryl.com>
+
+
+ESS Support
+https://www.ibm.com/docs/en/entitled-systems-support?topic=information-ess-support
+
+
+9911: System Error
+
+Your request cannot be processed, please try again. If the problem persists contact the help desk.
+
+
+IBM PowerHA SystemMirror for i 7.5 (5770-HAS)
+
+
+TS012403166
+Question related to Power HA for i productQuestion related to Power HA for i product
+
+
+Software Licensing & Compliance Information
+https://helpsystemswiki.atlassian.net/wiki/spaces/IWT/pages/162627586/Software+Licensing+Compliance+Information
+
+7.5 Base Enhancements
+https://helpsystemswiki.atlassian.net/wiki/spaces/IWT/pages/2195226625/7.5+Base+Enhancements
+
+
+Installing IBM PowerHA SystemMirror for i licensed program
+https://www.ibm.com/docs/en/i/7.5?topic=availability-installing-powerha-systemmirror-i-licensed-program
+
+IBM PowerHA SystemMirror for i
+https://www.ibm.com/docs/en/i/7.5?topic=programs-powerha-systemmirror-i-5770has
+
+
+Software Licensing & Compliance Information
+https://helpsystemswiki.atlassian.net/wiki/spaces/IWT/pages/162627586/Software+Licensing+Compliance+Information
+
+Since PowerHA 7.5 has a new product structure (including new SWMA PIDs), this requires an upgrade in e-config rather than in IBM Entitled System Support (ESS). The following behavior applies to upgrades:
+
+If SWMA is active on the PowerHA entitlement for which you are upgrading, config adds the PowerHA 90-day SWMA PID for $0, then order placers can select the brand SWMA extensions.
+
+If SWMA is not active on the PowerHA entitlement from which you are upgrading, config adds the after-license fee for one year of SWMA; then, order placers can select the brand SWMA extension.
+
+Note: Upgrades from PowerHA 7.4 and earlier Express or Standard Editions to PowerHA 7.5 will have an upgrade charge since PowerHA 7.5 is one edition with all functionality.
+
+
+IBM Configurator for e-business (e-config)
+
+
+Hello my dear!
+This is Victoria Basta from Triage Support Team,
+Thanks for your report!,
+I was checking with the Specialist team and they shared with me this material you can take into account in order to be able to upgrade PowerHA SystemMirror for i 7.5.
+ I think you will just need do a "Newsyst" or if you are just moving to higher level of existing code you can do that on the ESS site. If you get hung up tell them to reach out to Sharon Norton< sharonn@us.ibm.com>
+
+Here is the link you can consult and the procedure attached.
+
+https://ibm.enterprise.slack.com/files/W9B7U9H42/F05E3PJ92RW/5770-has_7.x_transition_document_with_fc_s_2022_09_09.xlsx
+
+I hope this helps!,
+
+Please let me know if there are any doubts or questions in order to continue with this ticket or confirm with me of acknowledged,
+
+Otherwise it will be closed.
+
+Thanks!
+E-config Cloud Support Team.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Plan de Vacaciones
+https://w3.ibm.com/hr/web/mx/benefits/other/vacation/
+
+Prima Vacacional
+
+La Prima Vacacional, es del equivalente al 25% (veinticinco por ciento) del sueldo diario, por el número de días hábiles de sus vacaciones, para empleados en un plan de incentivos, esta se calculará sobre la cantidad que resulte mayor de:
+
+El sueldo diario base para administración de salarios a la fecha en que disfrutan las vacaciones.
+La percepción diaria promedio incluyendo bonos e incentivos de los últimos doce meses.
+
+El empleado tiene hasta el día 24 (veinticuatro) de cada mes para tramitar sus vacaciones para que el bono correspondiente le sea pagado en la nómina del mes siguiente. Estos se deberán solicitar a través del sistema vigente de HR que permite solicitar días de vacaciones sin ningún límite de meses de anticipación, con mínima de 7 (siete) días.
+
+
+
+Lluvia Angélica del Oso Alva
+55-3400-1596
+angelicadeloso@gmail.com
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Check out the IBM Garage Services Experience (ibm.biz/IBMgarage) for the most recent news and resources.
+Join the IBM Garage slack channel to connect with other Garage practitioners and start a conversation about your availability.
+
+Congratulations!
+You have completed the Essentials Course!
+Look for an email from IBM via Credly with a link to your new badge.
+
+Please contact IBM Garage Badge support by ibmgarage@ibm.com if you do not receive your badge in five working days.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+The core services were the primary focus areas from 2010 to 2014. Since 2015, other services have emerged. A few of them can be seen in this slide. It is safe to say that Nova, Cinder, Keystone, Swift, Glance and Neutron are the core services of any OpenStack cloud.
+
+
+MEZZ 4 H54 y H55, J54 y J55, L41 y L42, H15 y H16, J14 y J15, L17 y L18, K14 y K15
+
+
+Generalmente el cliente debe de adquirir el contrato de soporte de software (SWMA) para el Spectrum Virtualize for Storwize V7000.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+S.E.E.D.
+Skills Essential Employee Development
+
+Yadira Martínez Garza
+Diana Maribel Plazas Pérez
+
+
+https://w3.ibm.com/w3publisher/seed
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ENVIRONMENT: VIOS Level is 2.2.6.65
+Hostname: CHDP880QRO14_VIOS_A
+Model: IBM,9119-MHE
+Firmware: SC860_165 (t)
+Serial: IBM,02107B7B7
+
+
+Case used for working on a service provided by local resources.
